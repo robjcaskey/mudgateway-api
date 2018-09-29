@@ -1,0 +1,7090 @@
+[
+  {
+    "title": "3-Kingdoms",
+    "host": "3k.org",
+    "port": "3000",
+    "ip": "69.63.227.146",
+    "www": "http://www.3k.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "SneezyMUD",
+    "host": "sneezymud.org",
+    "port": "7900",
+    "ip": "",
+    "www": "http://SneezyMud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Buffy Mud",
+    "host": "havenrpg.net",
+    "port": "5000",
+    "ip": "",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Aardwolf",
+    "host": "aardmud.org",
+    "port": "23",
+    "ip": "66.228.127.34",
+    "www": "http://www.aardwolf.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C",
+    "admins": [
+      "Mordist",
+      "Rezit",
+      "Rhuli",
+      "Anaristos",
+      "Broud",
+      "Kharpern",
+      "Korridel",
+      "Domain",
+      "Penthesilea",
+      "Rumour",
+      "Lasher",
+      "Ronus"
+    ]
+  },
+  {
+    "title": "Cities of M'Dhoria",
+    "host": "mdhoria.net",
+    "port": "6996",
+    "ip": "",
+    "www": "http://www.mdhoria.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Darkness of Time",
+    "host": "the3beers.com",
+    "port": "4000",
+    "ip": "24.170.35.194",
+    "www": "http://the3beers.com:4001/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Abandoned Codex",
+    "host": "abandonedcodex.net",
+    "port": "4000",
+    "ip": "212.69.200.88",
+    "www": "http://www.abandonedcodex.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Abandoned Realms",
+    "host": "abandonedrealms.com",
+    "port": "9000",
+    "ip": "23.92.24.184",
+    "www": "http://www.abandonedrealms.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Legends of the Jedi",
+    "host": "legendsofthejedi.com",
+    "port": "5656",
+    "ip": "204.209.44.23",
+    "www": "http://www.legendsofthejedi.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Sindome",
+    "host": "moo.sindome.org",
+    "port": "5555",
+    "ip": "52.14.187.198",
+    "www": "http://www.sindome.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Covenant",
+    "host": "tierceron.com",
+    "port": "1685",
+    "ip": "209.83.132.85",
+    "www": "http://www.tierceron.com/mud/index.php",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Abysmal Realms",
+    "host": "realms.reichel.net",
+    "port": "4000",
+    "ip": "54.165.189.70",
+    "www": "http://realms.reichel.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Age of Dragons MUD",
+    "host": "ageofdragons.com",
+    "port": "4000",
+    "ip": "5.135.160.179",
+    "www": "http://www.ageofdragons.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Achaea, Dreams of Divine Lands",
+    "host": "achaea.com",
+    "port": "23",
+    "ip": "69.65.42.198",
+    "www": "http://www.achaea.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Ghostwheel",
+    "host": "moo.ghostmoo.org",
+    "port": "6969",
+    "ip": "216.42.73.17",
+    "www": "http://fazigu.org/~quinn/ghost/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "GinkoMud",
+    "host": "ginkosoft.com",
+    "port": "8898",
+    "ip": "68.14.6.143",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Adventures Unlimited",
+    "host": "tharel.net",
+    "port": "5005",
+    "ip": "142.4.202.52",
+    "www": "http://www.tharel.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "After the Plague",
+    "host": "atp.pedia.szote.u-szeged.hu",
+    "port": "3000",
+    "ip": "160.114.100.96",
+    "www": "http://160.114.100.96/~atp/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "HoloMuck",
+    "host": "holomuck.org",
+    "port": "5757",
+    "ip": "67.224.119.26",
+    "www": "http://www.holomuck.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Age of Chaos",
+    "host": "aoc.pandapub.com",
+    "port": "4000",
+    "ip": "216.183.165.148",
+    "www": "http://aoc.fryguyweb.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Aabahran The Forsaken Lands",
+    "host": "play.theforsakenlands.com",
+    "port": "1848",
+    "ip": "66.85.147.89",
+    "www": "http://www.theforsakenlands.com/wiki/main/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Epoch",
+    "host": "coldc.com",
+    "port": "5190",
+    "ip": "24.58.116.243",
+    "www": "http://coldc.com/epoch",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Arcane Nites",
+    "host": "arcanenites.com",
+    "port": "7000",
+    "ip": "209.54.54.240",
+    "www": "http://arcanenites.com/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Aldebaran",
+    "host": "aldebaran.mud.de",
+    "port": "2000",
+    "ip": "85.214.77.105",
+    "www": "http://aldebaran.mud.de/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "AlexMUD",
+    "host": "alexmud.stacken.kth.se",
+    "port": "4000",
+    "ip": "130.237.234.80",
+    "www": "http://alex.stacken.kth.se/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Aliens vs. Predator",
+    "host": "avpmud.com",
+    "port": "4000",
+    "ip": "70.85.16.15",
+    "www": "http://www.avpmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Almaren",
+    "host": "celemir.net",
+    "port": "4000",
+    "ip": "204.251.180.191",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Altered Realities",
+    "host": "ar.squeep.com",
+    "port": "8888",
+    "ip": "216.112.97.68",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Ancient Anguish",
+    "host": "ancient.anguish.org",
+    "port": "2222",
+    "ip": "67.203.2.146",
+    "www": "http://ancient.anguish.org/intro.php?id%3Dtmc_db",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "COW Creative Object World",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://wolispace.com/cow",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "L5RMux: Kishi Kaisei",
+    "host": "kishikaisei.net",
+    "port": "2860",
+    "ip": "162.217.250.73",
+    "www": "http://kishikaisei.net/w/index.php/Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Telehack",
+    "host": "telehack.com",
+    "port": "23",
+    "ip": "64.13.147.30",
+    "www": "http://telehack.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "InterMUSH",
+    "host": "intermush.pennmush.org",
+    "port": "4201",
+    "ip": "128.248.90.29",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Arctic",
+    "host": "mud.arctic.org",
+    "port": "2700",
+    "ip": "50.251.12.241",
+    "www": "http://mud.arctic.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Areth",
+    "host": "mud.areth.org",
+    "port": "6000",
+    "ip": "206.251.158.2",
+    "www": "http://www.areth.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Armageddon",
+    "host": "armageddon.org",
+    "port": "4050",
+    "ip": "64.252.79.51",
+    "www": "http://www.armageddon.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Epitaph",
+    "host": "epitaphonline.co.uk",
+    "port": "6789",
+    "ip": "",
+    "www": "http://epitaphonline.co.uk",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Haunted Memories: Vienna by Night",
+    "host": "haunted-memories.net",
+    "port": "3010",
+    "ip": "208.69.182.180",
+    "www": "http://www.haunted-memories.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Asgard's Honor",
+    "host": "asgard.aardmud.org",
+    "port": "5454",
+    "ip": "66.162.28.89",
+    "www": "http://www.asgardshonor.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Grimm Tales",
+    "host": "grimm-tales.azundris.com",
+    "port": "7000",
+    "ip": "85.214.51.51",
+    "www": "http://grimm-tales.azundris.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Sheltering Sky: Colorado by Night",
+    "host": "mush.shelteringcolorado.com",
+    "port": "2601",
+    "ip": "107.155.72.197",
+    "www": "http://wiki.shelteringcolorado.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "AustinMUD",
+    "host": "mud.austinmud.dk",
+    "port": "4000",
+    "ip": "78.46.206.12",
+    "www": "http://www.austinmud.dk",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "The Fairy Garden MUSH",
+    "host": "tfgmush.org",
+    "port": "3349",
+    "ip": "",
+    "www": "http://https://tfgmush.org/utm_source=mudconnect",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Avalon",
+    "host": "avalon-rpg.com",
+    "port": "23",
+    "ip": "184.173.130.145",
+    "www": "http://www.avalon-rpg.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "StormHunters",
+    "host": "sh.mudalumni.com",
+    "port": "7000",
+    "ip": "45.77.103.210",
+    "www": "http://sh.mudalumni.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "A"
+  },
+  {
+    "title": "Clessidra",
+    "host": "mud.clessidra.it",
+    "port": "4000",
+    "ip": "212.11.68.9",
+    "www": "http://www.clessidra.it",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Avendar: The Crucible of Legends",
+    "host": "avendar.net",
+    "port": "9999",
+    "ip": "76.72.167.208",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Bad Trip",
+    "host": "badtripmud.com",
+    "port": "7778",
+    "ip": "81.4.123.168",
+    "www": "http://www.badtripmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "DragonBall: Infinity",
+    "host": "dbinfinity.bounceme.net",
+    "port": "4000",
+    "ip": "",
+    "www": "http://dbinfinity.gamingrendo.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Transformers Universe",
+    "host": "tfuniverse.mudhosting.net",
+    "port": "1976",
+    "ip": "192.95.60.225",
+    "www": "http://tfumux.wikia.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Star Wars: Knights of Darkness",
+    "host": "mud.infinityforgotten.com",
+    "port": "5555",
+    "ip": "72.13.95.21",
+    "www": "http://www.infinityforgotten.com/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "S"
+  },
+  {
+    "title": "Barren Realms",
+    "host": "barren.barrenrealmsmud.com",
+    "port": "8000",
+    "ip": "",
+    "www": "http://www.barrenrealmsmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "BatMUD",
+    "host": "batmud.bat.org",
+    "port": "23",
+    "ip": "83.145.249.153",
+    "www": "http://www.bat.org/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "BlackMUD",
+    "host": "blackmud.com",
+    "port": "2000",
+    "ip": "192.41.0.150",
+    "www": "http://www.blackmud.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Primal Darkness",
+    "host": "primaldarkness.com",
+    "port": "5000",
+    "ip": "64.235.250.21",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "AVATAR Mud",
+    "host": "avatar.outland.org",
+    "port": "3000",
+    "ip": "98.118.1.146",
+    "www": "http://www.outland.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "The Burbs",
+    "host": "Burbs.org",
+    "port": "4567",
+    "ip": "63.229.89.50",
+    "www": "http://www.Burbs.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Burning",
+    "host": "burningmud.com",
+    "port": "4000",
+    "ip": "81.170.128.160",
+    "www": "http://www.burningmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "The Burning Eye",
+    "host": "mud.burning-eye.net",
+    "port": "4000",
+    "ip": "",
+    "www": "http://www.burning-eye.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Cajun Nights MUSH",
+    "host": "cajunnights.com",
+    "port": "7373",
+    "ip": "64.85.170.172",
+    "www": "http://cajunnights.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Chalacyn Nights MUD",
+    "host": "mud.chalacyn.com",
+    "port": "1000",
+    "ip": "206.117.109.67",
+    "www": "http://www.chalacyn.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Champions MUSH",
+    "host": "championsmush.com",
+    "port": "6363",
+    "ip": "50.57.185.236",
+    "www": "http://www.championsmush.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "CheesyMUD",
+    "host": "cheesymud.com",
+    "port": "4001",
+    "ip": "199.246.2.172",
+    "www": "http://www.cheesymud.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Materia Magica",
+    "host": "materiamagica.com",
+    "port": "4000",
+    "ip": "54.200.79.95",
+    "www": "http://www.materiamagica.com/?utm_source=mudconnect&utm_medium=database&utm_campaign=mudconnector",
+    "msp": true,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "The Lazarus Project",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://forum.skotos.net/forum/our-games/the-lazarus-project",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Castle Arcanum",
+    "host": "castlearcanum.com",
+    "port": "3888",
+    "ip": "216.136.9.5",
+    "www": "http://www.castlearcanum.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Crimson MUD 2",
+    "host": "mud.crimson2.com",
+    "port": "4000",
+    "ip": "174.60.122.230",
+    "www": "http://www.crimson2.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Lost Wishes",
+    "host": "lost.wishes.net",
+    "port": "5555",
+    "ip": "69.197.181.210",
+    "www": "http://lost.wishes.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "OtherSpace",
+    "host": "jointhesaga.com",
+    "port": "1790",
+    "ip": "66.228.58.232",
+    "www": "http://www.jointhesaga.com/drupal",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Carrion Fields",
+    "host": "162.249.126.23",
+    "port": "4449",
+    "ip": "162.249.126.23",
+    "www": "http://www.carrionfields.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Warhammer 40k: Rise of Heroes",
+    "host": "riseofheroes.custom-gaming.net",
+    "port": "1906",
+    "ip": " ",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Eternal Crusade",
+    "host": "mushhaven.com",
+    "port": "1220",
+    "ip": "",
+    "www": "http://eternalcrusade.wikidot.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "CyberASSAULT",
+    "host": "cyberassault.org",
+    "port": "11111",
+    "ip": "96.126.109.189",
+    "www": "http://www.cyberassault.org",
+    "msp": true,
+    "mxp": true,
+    "codebase": "T"
+  },
+  {
+    "title": "CyberSphere",
+    "host": "www.cybersphere.net",
+    "port": "7777",
+    "ip": "69.55.75.30",
+    "www": "http://www.cybersphere.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "SilberLand",
+    "host": "mud.silberland.at",
+    "port": "4711",
+    "ip": "195.34.131.34",
+    "www": "http://www.silberland.at/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dragonball Rebellion",
+    "host": "xylam.genesismuds.com",
+    "port": "2040",
+    "ip": "216.136.9.8",
+    "www": "http://xylam.genesismuds.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dark and Shattered Lands (DSL)",
+    "host": "dsl-mud.org",
+    "port": "4000",
+    "ip": "184.172.132.194",
+    "www": "http://www.dsl-mud.org/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Dark Gift",
+    "host": "darkgift.mushpark.com",
+    "port": "6251",
+    "ip": "67.130.96.226",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dark Risings",
+    "host": "www.darkrisings.com",
+    "port": "1313",
+    "ip": "174.133.72.234",
+    "www": "http://www.darkrisings.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Lands of M'dhavian",
+    "host": "mdhavian.net",
+    "port": "7500",
+    "ip": "162.243.3.113",
+    "www": "http://mdhavian.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Cowboy Bebop: Space Cowboy",
+    "host": "cb-sc.com",
+    "port": "4567",
+    "ip": "",
+    "www": "http://cb-sc.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Cantr II",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.cantr.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Darker Realms",
+    "host": "darkerrealms.org",
+    "port": "2000",
+    "ip": "65.99.208.28",
+    "www": "http://www.darkerrealms.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "DustMARE",
+    "host": "winds.org",
+    "port": "4000",
+    "ip": "68.75.195.9",
+    "www": "http://dustmare.freewebpage.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "GATEWAY - The MU* Community",
+    "host": "connect.mu-gateway.net",
+    "port": "6700",
+    "ip": "184.173.122.226",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Great Hunt",
+    "host": "tghmud.org",
+    "port": "8500",
+    "ip": "",
+    "www": "http://tghmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "DarkWind",
+    "host": "darkwind.org",
+    "port": "3000",
+    "ip": "206.155.168.125",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dartmud",
+    "host": "dartmud.com",
+    "port": "2525",
+    "ip": "207.49.240.62",
+    "www": "http://www.dartmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dawn of Demise",
+    "host": "tdod.org",
+    "port": "4000",
+    "ip": "73.169.33.130",
+    "www": "http://tdod.org/dod/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Advanced Universe: Ressurection",
+    "host": "72.10.35.120",
+    "port": "3069",
+    "ip": "",
+    "www": "http://advanceduniverse.proboards.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Deeper Trouble",
+    "host": "deepertrouble.org",
+    "port": "4242",
+    "ip": "193.88.14.115",
+    "www": "http://www.deepertrouble.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Delphine",
+    "host": "delphine.org",
+    "port": "23",
+    "ip": "130.232.72.71",
+    "www": "http://www.delphine.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "TriadCity",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.smartmonsters.com/TriadCity/index.jsp",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "DelusionsMUCK",
+    "host": "DelusionsMUCK.com",
+    "port": "4999",
+    "ip": "216.218.194.137",
+    "www": "http://www.DelusionsMUCK.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "BrutusMUD",
+    "host": "brutusmud.net",
+    "port": "4444",
+    "ip": "94.112.53.26",
+    "www": "http://brutusmud.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Desolation",
+    "host": "desolation.org",
+    "port": "7878",
+    "ip": "63.249.8.14",
+    "www": "http://www.desolation.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "DiscordiaMUSH",
+    "host": "discordia.nevermind.com",
+    "port": "4201",
+    "ip": "205.246.41.70",
+    "www": "http://discordia.nevermind.com/discordia/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "Discworld",
+    "host": "discworld.starturtle.net",
+    "port": "23",
+    "ip": "82.68.167.69",
+    "www": "http://discworld.starturtle.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Deckeon",
+    "host": "deckeon.mine.nu",
+    "port": "2065",
+    "ip": "216.201.225.25",
+    "www": "http://www.deckeon.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Divine Blood",
+    "host": "mud.divineblood.org",
+    "port": "4000",
+    "ip": "65.98.193.167",
+    "www": "http://www.divineblood.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Furscape",
+    "host": "furscape.servegame.com",
+    "port": "2001",
+    "ip": "63.107.185.23",
+    "www": "http://furscape.servegame.com/dokuwiki",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Grendel's Revenge",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.skotos.net/games/grendel",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dominia MUD",
+    "host": "mud.dominiamud.net",
+    "port": "3333",
+    "ip": "66.220.0.84",
+    "www": "http://www.dominiamud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dystopia MUX",
+    "host": "kuramori.mechanipus.net",
+    "port": "2500",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Redwall",
+    "host": "redwall.realm.limitless.org",
+    "port": "4203",
+    "ip": "52.207.173.89",
+    "www": "http://www.rwmuck.org/wiki/Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dragon Swords",
+    "host": "dragonswordsmud.com",
+    "port": "1234",
+    "ip": "66.85.154.235",
+    "www": "http://www.dragonswordsmud.com/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Dragon's Den",
+    "host": "dden.discordia.org",
+    "port": "2222",
+    "ip": "74.109.126.27",
+    "www": "http://dden.discordia.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dead of Night",
+    "host": "deadofnight.org",
+    "port": "5000",
+    "ip": "216.197.156.106",
+    "www": "http://www.deadofnight.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "AstroMUD",
+    "host": "astro.astromud.net",
+    "port": "2447",
+    "ip": "76.121.149.94",
+    "www": "http://astromud.net",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Haven: Mist and Shadow",
+    "host": "havenrpg.net",
+    "port": "3000",
+    "ip": "100.42.19.101",
+    "www": "http://www.havenrpg.net/wiki/pmwiki.php",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "DragonMud",
+    "host": "dragonmud.com",
+    "port": "4201",
+    "ip": "206.170.114.15",
+    "www": "http://www.dragonmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "Core",
+    "host": "www.coremud.org",
+    "port": "4000",
+    "ip": "70.85.248.74",
+    "www": "http://www.coremud.org/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dreams",
+    "host": "mud.dreamsmud.com",
+    "port": "3000",
+    "ip": "74.129.199.119",
+    "www": "http://www.dreamsmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "The 7th Plane",
+    "host": "7thplane.net",
+    "port": "8888",
+    "ip": "209.90.73.150",
+    "www": "http://www.7thplane.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "MozartMud",
+    "host": "107.141.162.82",
+    "port": "4500",
+    "ip": "",
+    "www": "http://107.141.162.82",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "DUMII",
+    "host": "dum.acc.umu.se",
+    "port": "2001",
+    "ip": "130.239.18.149",
+    "www": "http://dum.acc.umu.se/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Dune",
+    "host": "dune.servint.com",
+    "port": "6789",
+    "ip": "209.50.251.103",
+    "www": "http://dune.servint.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Duris: Land of BloodLust",
+    "host": "mud.durismud.com",
+    "port": "7777",
+    "ip": "162.243.74.41",
+    "www": "http://www.durismud.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Unwritten Legends",
+    "host": "unwrittenlegends.net",
+    "port": "6666",
+    "ip": "24.178.75.194",
+    "www": "http://www.unwrittenlegends.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "U"
+  },
+  {
+    "title": "HolyQuest",
+    "host": "www.holyquest.org",
+    "port": "8080",
+    "ip": "174.99.171.148",
+    "www": "http://www.holyquest.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "De Digitale Metro",
+    "host": "moo.demetro.nl",
+    "port": "8888",
+    "ip": "194.109.206.150",
+    "www": "http://www.demetro.nl/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Elendor",
+    "host": "mush.elendor.net",
+    "port": "1892",
+    "ip": "134.114.32.65",
+    "www": "http://www.elendor.net/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Elephant Mud",
+    "host": "elephant.org",
+    "port": "23",
+    "ip": "194.74.208.195",
+    "www": "http://www.elephant.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Emperia",
+    "host": "emperia.org",
+    "port": "5002",
+    "ip": "204.246.122.36",
+    "www": "http://www.emperia.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Eltanin Resurrection",
+    "host": "celemir.net",
+    "port": "3000",
+    "ip": "204.251.180.191",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "Alter Aeon",
+    "host": "alteraeon.com",
+    "port": "3000",
+    "ip": "173.255.226.43",
+    "www": "http://www.alteraeon.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Elysium RPG",
+    "host": "elysium-rpg.com",
+    "port": "7777",
+    "ip": "2.101.56.226",
+    "www": "http://elysium-rpg.wikispaces.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "DraknorMUD",
+    "host": "mud.draknor.com",
+    "port": "4000",
+    "ip": "71.60.200.243",
+    "www": "http://mud.draknor.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "PKmud",
+    "host": "pkmud.net",
+    "port": "5000",
+    "ip": "184.106.108.154",
+    "www": "http://pkmud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "AderonMUD",
+    "host": "aderonmud.genesismuds.com",
+    "port": "3200",
+    "ip": "",
+    "www": "http://aderonmud.genesismuds.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Eternal City",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.skotos.net/games/eternal-city/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Enchantment Under the Sea",
+    "host": "euts.org",
+    "port": "2000",
+    "ip": "208.139.203.146",
+    "www": "http://www.euts.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Exile",
+    "host": "exile.lurker.net",
+    "port": "4000",
+    "ip": "198.58.123.126",
+    "www": "http://exile.lurker.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Realms of Aarendil",
+    "host": "game.mudhosting.net",
+    "port": "4000",
+    "ip": "192.95.60.225",
+    "www": "http://https://www.facebook.com/groups/queenmarisasrealm",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Lurking Fear 3",
+    "host": "lurkingfear.org",
+    "port": "4040",
+    "ip": "65.5.218.177",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "The Final Challenge",
+    "host": "mud.finalchallenge.net",
+    "port": "4000",
+    "ip": "65.39.69.26",
+    "www": "http://www.finalchallenge.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Final Realms",
+    "host": "castle.linpro.no",
+    "port": "4001",
+    "ip": "87.238.35.142",
+    "www": "http://finalrealms.net/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "FinalFrontier",
+    "host": "FinalFrontier.mud.de",
+    "port": "23",
+    "ip": "195.37.132.70",
+    "www": "http://FinalFrontier.mud.de/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "FluffMUCK",
+    "host": "fluffmuck.org",
+    "port": "8888",
+    "ip": "199.227.248.242",
+    "www": "http://www.fluffmuck.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Unofficial Squaresoft MUD",
+    "host": "uossmud.sandwich.net",
+    "port": "9000",
+    "ip": "69.9.32.139",
+    "www": "http://uossmud.sandwich.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "MUD2",
+    "host": "mud2.com",
+    "port": "27723",
+    "ip": "199.166.252.67",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Winter's Edge",
+    "host": "winter.mushpark.com",
+    "port": "3000",
+    "ip": "216.93.247.2",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dizzymud",
+    "host": "mud.dizzymud.com",
+    "port": "4000",
+    "ip": "212.13.208.95",
+    "www": "http://www.dizzymud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Edge of Midnight",
+    "host": "edgeofmidnight.org",
+    "port": "8010",
+    "ip": "217.155.36.23",
+    "www": "http://greyarchive.info/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "U"
+  },
+  {
+    "title": "Rusted Promises",
+    "host": "rustedpromises.com",
+    "port": "9630",
+    "ip": "",
+    "www": "http://wiki.rustedpromises.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "FurryMUCK",
+    "host": "74.207.243.108",
+    "port": "8888",
+    "ip": "",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "TorilMud, the Sojourner's Home",
+    "host": "torilmud.com",
+    "port": "9999",
+    "ip": "67.119.35.125",
+    "www": "http://www.torilmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "GarouMUSH",
+    "host": "garoumush.org",
+    "port": "7000",
+    "ip": "205.138.63.222",
+    "www": "http://www.GarouMUSH.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Gathering",
+    "host": "gathering.org.uk",
+    "port": "5000",
+    "ip": "212.13.204.181",
+    "www": "http://www.gathering.org.uk/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Genesis",
+    "host": "genesismud.org",
+    "port": "3011",
+    "ip": "195.22.75.126",
+    "www": "http://https://www.genesismud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Genocide",
+    "host": "geno.org",
+    "port": "2222",
+    "ip": "",
+    "www": "http://www.geno.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Rauvyon",
+    "host": "rauvyon.com",
+    "port": "7075",
+    "ip": "217.160.248.173",
+    "www": "http://www.rauvyon.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "MUDII",
+    "host": "mudII.co.uk",
+    "port": "23",
+    "ip": "212.187.255.136",
+    "www": "http://www.mudII.co.uk/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Eaxia Online",
+    "host": "game.eaxia.com",
+    "port": "347",
+    "ip": "24.129.5.205",
+    "www": "http://www.eaxia.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Rothogna MUSH",
+    "host": "144.217.15.179",
+    "port": "4201",
+    "ip": "144.217.15.179",
+    "www": "http://144.217.15.179/wiki",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Hunter x Hunter: Greed Island MUD",
+    "host": "greedisland.servegame.com",
+    "port": "4000",
+    "ip": "",
+    "www": "http://https://www.facebook.com/greedislandmud",
+    "msp": false,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "The Eternal Fantasy",
+    "host": "eternalfantasy.org",
+    "port": "3333",
+    "ip": "70.85.244.106",
+    "www": "http://www.eternalfantasy.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Harshlands",
+    "host": "mud.harshlands.net",
+    "port": "5555",
+    "ip": "72.64.68.92",
+    "www": "http://www.harshlands.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "4 Dimensions",
+    "host": "4dimensions.org",
+    "port": "6000",
+    "ip": "4dimensions.org",
+    "www": "http://4dimensions.org",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Arda MUD",
+    "host": "arda.pp.ru",
+    "port": "7000",
+    "ip": "62.141.97.34",
+    "www": "http://www.arda.pp.ru",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Dragonball Advent Truth",
+    "host": "www.advent-truth.com",
+    "port": "1280",
+    "ip": "66.85.154.235",
+    "www": "http://www.advent-truth.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Hidden Worlds",
+    "host": "hwmud.mudmagic.com",
+    "port": "4040",
+    "ip": "173.193.107.10",
+    "www": "http://hwmud.mudmagic.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "HoloTrek",
+    "host": "holotrek.org",
+    "port": "1701",
+    "ip": "75.101.141.213",
+    "www": "http://www.holotrek.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Savage Soul",
+    "host": "savsoul.com",
+    "port": "6666",
+    "ip": "173.255.210.234",
+    "www": "http://www.savsoul.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Mage: the Ascension Online",
+    "host": "mud.streetwitch.com",
+    "port": "4000",
+    "ip": "45.33.64.181",
+    "www": "http://www.streetwitch.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "U"
+  },
+  {
+    "title": "Hyperborea",
+    "host": "hyperborea.net",
+    "port": "2000",
+    "ip": "107.22.255.156",
+    "www": "http://www.hyperborea.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "IgorMud",
+    "host": "igormud.org",
+    "port": "1701",
+    "ip": "213.150.135.233",
+    "www": "http://www.igormud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Imperium",
+    "host": "imperium.genesismuds.com",
+    "port": "40000",
+    "ip": "216.136.9.5",
+    "www": "http://imperium.genesismuds.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Erimand",
+    "host": "erimand.pocketmud.com",
+    "port": "23",
+    "ip": "45.33.46.103",
+    "www": "http://erimand.pocketmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Voregotten Realm",
+    "host": "vore.got-game.org",
+    "port": "8888",
+    "ip": "82.64.10.69",
+    "www": "http://vore.got-game.org/VoregottenRealm/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Hell",
+    "host": "hellmoo.org",
+    "port": "7777",
+    "ip": "70.87.163.146",
+    "www": "http://hellmoo.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "JediMUD",
+    "host": "jedimud.com",
+    "port": "4000",
+    "ip": "151.201.143.150",
+    "www": "http://www.jedimud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Corporate Expanse: From the Cradle",
+    "host": "corpexpanse.com",
+    "port": "7117",
+    "ip": "208.69.182.180",
+    "www": "http://www.corpexpanse.com/cradle",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Kerovnia",
+    "host": "kerovnia.com",
+    "port": "1984",
+    "ip": "209.73.232.39",
+    "www": "http://www.kerovnia.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Fading Suns: Star Crusade",
+    "host": "mush.fadingsuns.org",
+    "port": "5001",
+    "ip": "",
+    "www": "http://starcrusade.fadingsuns.org/index.php?title=Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Kingdoms",
+    "host": "kingdoms.se",
+    "port": "1812",
+    "ip": "212.91.134.183",
+    "www": "http://www.kingdoms.se/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "DragonBall Evolution",
+    "host": "evolution.wolfpaw.net",
+    "port": "1874",
+    "ip": "204.209.44.22",
+    "www": "http://www.dbemud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Resident Evil: Redefined",
+    "host": "residentevilmush.com",
+    "port": "2002",
+    "ip": "45.55.233.3",
+    "www": "http://residentevilmush.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Game of Bones",
+    "host": "granitefallsmush.com",
+    "port": "4222",
+    "ip": "Dynamic, use na",
+    "www": "http://gobmush.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Lambda Moo",
+    "host": "Lambda.moo.mud.org",
+    "port": "8888",
+    "ip": "192.216.54.2",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "The Sea of Storms",
+    "host": "tsosmud.org",
+    "port": "7070",
+    "ip": "66.17.208.221",
+    "www": "http://www.tsosmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Galactic Trader",
+    "host": "gt.gamingmuseum.com",
+    "port": "23",
+    "ip": "67.62.104.154",
+    "www": "http://www.galtrader.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Shoujo-Ai MUSH",
+    "host": "yuriba.com",
+    "port": "4201",
+    "ip": "50.116.61.33 ",
+    "www": "http://yuriba.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Last Sunrise",
+    "host": "thelastsunrise.net",
+    "port": "9000",
+    "ip": "207.180.14.18",
+    "www": "http://thelastsunrise.net",
+    "msp": true,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Legend of the Nobles",
+    "host": "lotn.gatihnargaming.com",
+    "port": "5400",
+    "ip": "70.91.64.116",
+    "www": "http://lotn.gatihnargaming.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "LegendMUD",
+    "host": "mud.legendmud.org",
+    "port": "9999",
+    "ip": "162.249.2.168",
+    "www": "http://www.legendmud.org/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "D"
+  },
+  {
+    "title": "Star Wars: Omens",
+    "host": "pulsar.dune.net",
+    "port": "7827",
+    "ip": "",
+    "www": "http://www.sw-omens.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Shattered Realms",
+    "host": "mud.themudhost.net",
+    "port": "8081",
+    "ip": "",
+    "www": "http://blackhandgaming.net/realms/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Legends of the Darkstone",
+    "host": "www.darkstonemud.com",
+    "port": "5432",
+    "ip": "66.218.49.114",
+    "www": "http://www.darkstonemud.com/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "S"
+  },
+  {
+    "title": "Lensmoor",
+    "host": "lensmoor.org",
+    "port": "3500",
+    "ip": "75.126.141.202",
+    "www": "http://lensmoor.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Leviathan",
+    "host": "leviathan.com",
+    "port": "1691",
+    "ip": "208.146.72.65",
+    "www": "http://leviathan.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Olympus Island MUSH",
+    "host": "oim.wolfpaw.net",
+    "port": "1960",
+    "ip": "204.209.44.23",
+    "www": "http://www.angelfire.com/games4/oim/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Metropolis Universalis",
+    "host": "mumuck.com",
+    "port": "18888",
+    "ip": "104.179.27.93",
+    "www": "http://www.mumuck.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "FeatherMUCK",
+    "host": "feathermuck.avians.net",
+    "port": "8888",
+    "ip": "63.77.245.134",
+    "www": "http://www.avians.net/feathermuck/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Lost In Time",
+    "host": "lit.klfree.cz",
+    "port": "7680",
+    "ip": "81.201.49.14",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "DarkeMud",
+    "host": "live.darkemud.com",
+    "port": "5559",
+    "ip": "45.52.9.106",
+    "www": "http://www.darkemud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dragon Ball: Age of Destruction",
+    "host": "mud.morchronium.com",
+    "port": "8731",
+    "ip": "",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Lost Souls",
+    "host": "lostsouls.org",
+    "port": "23",
+    "ip": "66.96.30.243",
+    "www": "http://lostsouls.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "DragonRealms",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.dragonrealms.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Lumen et Umbra",
+    "host": "mclmud.mclink.it",
+    "port": "6000",
+    "ip": "192.106.243.106",
+    "www": "http://www.leu.it/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Faery Tale Online",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://faerytaleonline.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "looneymud",
+    "host": "rooky.looney.com",
+    "port": "8888",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Malevolence",
+    "host": "mudpuddle.shwaine.com",
+    "port": "3000",
+    "ip": "24.161.208.74",
+    "www": "http://www.shwaine.com/malev/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Masquerade",
+    "host": "masq.org",
+    "port": "9999",
+    "ip": "216.136.9.5",
+    "www": "http://www.masq.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Chronicles of Ivalice: Emberstrand",
+    "host": "coimuck.com",
+    "port": "1771",
+    "ip": "",
+    "www": "http://coimuck.com/wiki",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Medievia",
+    "host": "medievia.com",
+    "port": "4000",
+    "ip": "206.245.175.232",
+    "www": "http://www.medievia.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dark-Legacy MUD (Dark Legacy MUD)",
+    "host": "dark-legacy.com",
+    "port": "9898",
+    "ip": "80.69.66.77",
+    "www": "http://www.dark-legacy.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Merentha",
+    "host": "merentha.com",
+    "port": "10000",
+    "ip": "70.85.172.155",
+    "www": "http://www.merentha.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Serenity : The Firefly MUSH",
+    "host": "serenitymush.com",
+    "port": "2020",
+    "ip": "74.54.135.2",
+    "www": "http://serenitymush.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Aydindril 2",
+    "host": "redstreak.no-ip.org",
+    "port": "4000",
+    "ip": "",
+    "www": "http://redstreak.no-ip.org:3999/~aydindril/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Aetolia, the Midnight Age",
+    "host": "aetolia.com",
+    "port": "23",
+    "ip": "69.65.42.194",
+    "www": "http://aetolia.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "The Lost Dominion",
+    "host": "lostdominion.org",
+    "port": "6006",
+    "ip": "",
+    "www": "http://lostdominion.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Mirkwood",
+    "host": "mirkwoodmud.org",
+    "port": "4000",
+    "ip": "8.18.67.236",
+    "www": "http://www.mirkwoodmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Kushiel's Debut",
+    "host": "kushielsdebut.org",
+    "port": "2009",
+    "ip": "74.208.174.122",
+    "www": "http://www.kushielsdebut.org/index.php",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Hexahedron",
+    "host": "hexahedronmud.ddns.net",
+    "port": "5500",
+    "ip": "71.59.58.67",
+    "www": "http://hexahedronmud.ddns.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "A Moment in Tyme",
+    "host": "tymemud.com",
+    "port": "6969",
+    "ip": "",
+    "www": "http://www.tymemud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Days of Dragons",
+    "host": "the3beers.com",
+    "port": "4040",
+    "ip": "24.170.35.194",
+    "www": "http://the3beers.com/~jupiter/dod/index.html",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Slice and Dice Dungeon",
+    "host": "sndd.io",
+    "port": "23",
+    "ip": "",
+    "www": "http://sndd.io",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Maelstrom Earth",
+    "host": "mearth.mushpark.com",
+    "port": "9376",
+    "ip": "",
+    "www": "http://maelstrom-earth.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Latitude",
+    "host": "latitude.muck.ca",
+    "port": "23",
+    "ip": "",
+    "www": "http://latitude.muck.ca",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "MOO Canada, Eh?",
+    "host": "moo.ca",
+    "port": "7777",
+    "ip": "207.228.127.66",
+    "www": "http://www.moo.ca/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "DBZ: A New Dawn",
+    "host": "rhostmush.com",
+    "port": "6565",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Mordor",
+    "host": "mordormud.net",
+    "port": "4000",
+    "ip": "66.85.154.235",
+    "www": "http://mordormud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "MorgenGrauen",
+    "host": "mg.mud.de",
+    "port": "4711",
+    "ip": "87.79.24.60",
+    "www": "http://mg.mud.de/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Cleft of Dimensions",
+    "host": "cod.mudmagic.com",
+    "port": "4354",
+    "ip": "174.133.80.138",
+    "www": "http://cleftofdimensions.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Muddy Waters",
+    "host": "mw.muddywaters.org",
+    "port": "3000",
+    "ip": "216.122.3.161",
+    "www": "http://www.muddywaters.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "MULTI MUD!",
+    "host": "multimud.net",
+    "port": "4242",
+    "ip": "85.214.57.241",
+    "www": "http://multimud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "MUME - Multi Users In Middle Earth",
+    "host": "mume.org",
+    "port": "23",
+    "ip": "193.134.218.111",
+    "www": "http://mume.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Realms of Chaos",
+    "host": "realmsofchaos.com",
+    "port": "3456",
+    "ip": "209.223.145.189",
+    "www": "http://www.realmsofchaos.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Myrradel",
+    "host": "myrradel.com",
+    "port": "4000",
+    "ip": "216.218.224.14",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Legends of Terris",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.legendsofterris.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Mystic Adventure",
+    "host": "mud.mystic-adventure.org",
+    "port": "4000",
+    "ip": "67.42.155.223",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "NannyMUD",
+    "host": "mud.lysator.liu.se",
+    "port": "2000",
+    "ip": "130.236.254.159",
+    "www": "http://www.lysator.liu.se/nanny/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Necromium",
+    "host": "necromium.com",
+    "port": "4000",
+    "ip": "66.206.164.164",
+    "www": "http://www.necromium.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "NetherWorld",
+    "host": "mud.envy.com",
+    "port": "3666",
+    "ip": "",
+    "www": "http://www.netherworldmud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "OuterSpace",
+    "host": "mud.stack.nl",
+    "port": "3333",
+    "ip": "131.155.141.70",
+    "www": "http://mud.stack.nl/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "3Scapes",
+    "host": "3scapes.org",
+    "port": "3200",
+    "ip": "69.63.227.146",
+    "www": "http://www.3scapes.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Nightfall",
+    "host": "nightfall.org",
+    "port": "4242",
+    "ip": "94.23.250.24",
+    "www": "http://www.nightfall.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Nilgiri, the Forgotten World",
+    "host": "nilgiri.net",
+    "port": "8888",
+    "ip": "74.63.229.211",
+    "www": "http://nilgiri.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Land LPMud",
+    "host": "mud.spin.de",
+    "port": "6666",
+    "ip": "62.208.121.77",
+    "www": "http://mud.spin.de/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Nirvana",
+    "host": "nirvana.beanos.com",
+    "port": "3500",
+    "ip": "174.137.154.70",
+    "www": "http://nirvana.beanos.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Nodeka",
+    "host": "nodeka.com",
+    "port": "23",
+    "ip": "66.37.140.71",
+    "www": "http://www.nodeka.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Northern Crossroads",
+    "host": "ncmud.net",
+    "port": "9000",
+    "ip": "69.164.195.138",
+    "www": "http://www.ncmud.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Northern Lights",
+    "host": "aber.ludd.ltu.se",
+    "port": "6715",
+    "ip": "130.240.16.141",
+    "www": "http://aber.ludd.ltu.se/northern_lights.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "A"
+  },
+  {
+    "title": "Battle Fantasia MUSH",
+    "host": "pinksugarheartattack.net",
+    "port": "2873",
+    "ip": "66.85.147.90",
+    "www": "http://battlefantasia.pinksugarheartattack.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Holy Mission 99 - Resurrected -",
+    "host": "wildsau.holy-mission.org",
+    "port": "6666",
+    "ip": "",
+    "www": "http://holymission99-resurrected.luxh.at/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Where No One Has Gone Before",
+    "host": "game.wnohgb.org",
+    "port": "1701",
+    "ip": "64.81.24.42",
+    "www": "http://www.wnohgb.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Zelda RPG - formerly Triforce MUCK",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.zeldarpg.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Perilous Realms",
+    "host": "perilousrealms.com",
+    "port": "23",
+    "ip": "68.226.73.42",
+    "www": "http://www.perilousrealms.com/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Vampire Wars: The Final Sunset",
+    "host": "www.godwars.net",
+    "port": "4888",
+    "ip": "",
+    "www": "http://www.finalsunset.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "PixieMUD",
+    "host": "pixiemud.com",
+    "port": "6789",
+    "ip": "24.89.241.26",
+    "www": "http://pixiemud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "The Soul Ruins",
+    "host": "soulruins.com",
+    "port": "5000",
+    "ip": "24.96.134.83",
+    "www": "http://www.soulruins.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Dragonball New Universe: Hopes Beginning",
+    "host": "dbnu.mudhosting.net",
+    "port": "4321",
+    "ip": "",
+    "www": "http://dbnu.wikia.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Prophecy",
+    "host": "mud.prophecy.lu",
+    "port": "4000",
+    "ip": "213.166.63.243",
+    "www": "http://www.mud.lu/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Realm of Utopian Dreams",
+    "host": "rudmud.com",
+    "port": "1701",
+    "ip": "99.153.68.145",
+    "www": "http://www.rudmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Pict",
+    "host": "136.62.89.155",
+    "port": "4200",
+    "ip": "136.62.89.155",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Elessar",
+    "host": "elessar.mudhosting.net",
+    "port": "7778",
+    "ip": "192.95.60.225",
+    "www": "http://elessarmush.wordpress.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Verrator's Empiremud",
+    "host": "reecepc.zapto.org",
+    "port": "4000",
+    "ip": "64.137.207.27",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Bleached InuYasha Galaxy",
+    "host": "biyg.org",
+    "port": "1801",
+    "ip": "199.180.250.22",
+    "www": "http://www.biyg.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Winds Of Time",
+    "host": "windsmud.com",
+    "port": "4500",
+    "ip": "",
+    "www": "http://windsmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "No Reality",
+    "host": "noreality.org",
+    "port": "4000",
+    "ip": "12.47.34.241",
+    "www": "http://www.noreality.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "The Lion King",
+    "host": "muck.tlkmuck.org",
+    "port": "7675",
+    "ip": "216.189.110.14",
+    "www": "http://www.tlkmuck.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Legends of Krynn",
+    "host": "play.legendsofkrynn.net",
+    "port": "6100",
+    "ip": "216.18.90.20",
+    "www": "http://www.legendsofkrynn.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Realm of Magic",
+    "host": "realmofmagic.org",
+    "port": "4000",
+    "ip": "85.214.227.173",
+    "www": "http://realmofmagic.org/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "From The Ashes: Detroit By Night",
+    "host": "fta.darcness.net",
+    "port": "2860",
+    "ip": "",
+    "www": "http://fta.darcness.net/wiki/index.php/Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Cosrin: A New Dawn",
+    "host": "play.cosrintwo.com",
+    "port": "31000",
+    "ip": "213.121.151.53",
+    "www": "http://www.cosrintwo.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Ansalon",
+    "host": "ansalon.net",
+    "port": "8679",
+    "ip": "66.228.38.196",
+    "www": "http://www.ansalon.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "U"
+  },
+  {
+    "title": "7 Degrees of Freedom",
+    "host": "7dof.org.uk",
+    "port": "6715",
+    "ip": "195.206.195.198",
+    "www": "http://www.7dof.org.uk/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "A"
+  },
+  {
+    "title": "Realms of Despair",
+    "host": "realmsofdespair.com",
+    "port": "4000",
+    "ip": "216.251.47.10",
+    "www": "http://www.realmsofdespair.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "AddictMUD",
+    "host": "addictmud.org",
+    "port": "4000",
+    "ip": "209.59.138.201",
+    "www": "http://www.addictmud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Meadows MUCK",
+    "host": "amber.org.uk",
+    "port": "7000",
+    "ip": "",
+    "www": "http://meadowsmuck.googlepages.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Insomniacs Asylum",
+    "host": "insomniacs.got-game.org",
+    "port": "7000",
+    "ip": "",
+    "www": "http://www.facebook.com/InsomniacsAsylum",
+    "msp": true,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "O Mundo de Arkadia",
+    "host": "arkadiamud.com.br",
+    "port": "2442",
+    "ip": "187.45.219.204",
+    "www": "http://www.arkadiamud.com.br",
+    "msp": false,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "Realmsmud",
+    "host": "realmsmud.org",
+    "port": "1501",
+    "ip": "Use alpha only",
+    "www": "http://realmsmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "RetroMUD",
+    "host": "retromud.org",
+    "port": "3000",
+    "ip": "70.86.15.74",
+    "www": "http://www.retromud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Match Of The Millennium",
+    "host": "motm.kicks-ass.net",
+    "port": "2002",
+    "ip": "",
+    "www": "http://motm.kicks-ass.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Spindizzy",
+    "host": "muck.spindizzy.org",
+    "port": "7072",
+    "ip": "63.201.73.75",
+    "www": "http://www.spindizzy.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Beutelland",
+    "host": "bl.mud.at",
+    "port": "5678",
+    "ip": "128.131.95.36",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "World of Naruto",
+    "host": "wonmud.com",
+    "port": "9000",
+    "ip": "174.133.128.242",
+    "www": "http://wonmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "DragonBall Z FE",
+    "host": "dbzfe.com",
+    "port": "4000",
+    "ip": "dbzfe.com",
+    "www": "http://www.dbzfe.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "RoninMUD",
+    "host": "game.roninmud.org",
+    "port": "5000",
+    "ip": "74.91.117.243",
+    "www": "http://www.roninmud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "CoffeeMud",
+    "host": "coffeemud.net",
+    "port": "23",
+    "ip": "",
+    "www": "http://www.coffeemud.net",
+    "msp": true,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "SchMOOze University",
+    "host": "schmooze.hunter.cuny.edu",
+    "port": "8888",
+    "ip": "146.95.128.7",
+    "www": "http://schmooze.hunter.cuny.edu:8888",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Astaria",
+    "host": "astaria.net",
+    "port": "23",
+    "ip": "96.43.131.220",
+    "www": "http://astaria.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Shades",
+    "host": "games.world.co.uk",
+    "port": "23",
+    "ip": "194.205.58.227",
+    "www": "http://games.world.co.uk/shades",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dead Souls",
+    "host": "alcatraz.wolfpaw.net",
+    "port": "8000",
+    "ip": "204.209.44.3",
+    "www": "http://dead-souls.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dragonfire II",
+    "host": "dragonfiremud.com",
+    "port": "1999",
+    "ip": "24.70.202.246",
+    "www": "http://www.dragonfiremud.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "ShadowGate",
+    "host": "www.shadowgate.org",
+    "port": "4016",
+    "ip": "209.161.2.50",
+    "www": "http://www.shadowgate.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Shattered Kingdoms",
+    "host": "mud.shatteredkingdoms.org",
+    "port": "1996",
+    "ip": "74.208.75.187",
+    "www": "http://www.shatteredkingdoms.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Moosehead SLED II",
+    "host": "mhsled.com",
+    "port": "4000",
+    "ip": "40.127.165.40",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Multi-User Dungeon (British Legends)",
+    "host": "british-legends.com",
+    "port": "27750",
+    "ip": "24.112.131.135",
+    "www": "http://www.british-legends.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Roma Aeterna Mux",
+    "host": "romagame.pw",
+    "port": "5151",
+    "ip": "dynamic dns",
+    "www": "http://www.romagame.pw",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "FlipSide Muck",
+    "host": "muck.flipsidemuck.org",
+    "port": "9999",
+    "ip": "66.92.223.139",
+    "www": "http://flipsidemuck.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "SlothMUD",
+    "host": "slothmud.org",
+    "port": "6101",
+    "ip": "209.139.208.65",
+    "www": "http://www.slothmud.org/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "D"
+  },
+  {
+    "title": "SMiLE",
+    "host": "smile.ath.cx",
+    "port": "6715",
+    "ip": "24.194.53.8",
+    "www": "http://www.smile.ath.cx/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "A"
+  },
+  {
+    "title": "AnderLand",
+    "host": "al.mud.de",
+    "port": "31415",
+    "ip": "193.53.23.95",
+    "www": "http://al.mud.de/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "End of the Line",
+    "host": "eotl.org",
+    "port": "2010",
+    "ip": "171.64.14.16",
+    "www": "http://www.eotl.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "DreamScapes 2 MUD",
+    "host": "dreamscapes.dyn.dhs.org",
+    "port": "4500",
+    "ip": "",
+    "www": "http://www.dreamscapes.dyn.dhs.org",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Genesis: The Return",
+    "host": "mud.morchronium.com",
+    "port": "5321",
+    "ip": "107.3.249.169",
+    "www": "http://mud.morchronium.com/~genesis/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "Star Wars Mud (SWmud)",
+    "host": "mud.swmud.org",
+    "port": "6666",
+    "ip": "138.197.30.160",
+    "www": "http://www.swmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Marvel: 1963",
+    "host": "marvel-1963.com",
+    "port": "1963",
+    "ip": "23.239.29.223",
+    "www": "http://www.marvel-1963.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Star Wars: Revenge of the Jedi",
+    "host": "rotjmud.com",
+    "port": "9400",
+    "ip": "68.90.68.67",
+    "www": "http://rotjmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Age of Legacy",
+    "host": "xenith.org",
+    "port": "3000",
+    "ip": "65.19.131.3",
+    "www": "http://www.ageoflegacy.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Dragonball Intergalactic Warriors",
+    "host": "mud.morchronium.com",
+    "port": "7777",
+    "ip": "69.137.67.155",
+    "www": "http://www.morchonium.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "S"
+  },
+  {
+    "title": "Akanbar",
+    "host": "akanbar.com",
+    "port": "23",
+    "ip": "64.34.213.15",
+    "www": "http://www.akanbar.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "8bitMUSH",
+    "host": "8bit.fansi.org",
+    "port": "4201",
+    "ip": "64.79.64.74",
+    "www": "http://ansiart.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Stonia (The Cruel and Lost World of Stonia)",
+    "host": "stonia.ttu.ee",
+    "port": "4000",
+    "ip": "193.40.254.231",
+    "www": "http://stonia.ttu.ee/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "StrangeMUD",
+    "host": "strangemud.net",
+    "port": "9332",
+    "ip": "",
+    "www": "http://www.strangemud.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Blood Dusk",
+    "host": "mud.dusk.org",
+    "port": "7000",
+    "ip": "67.19.101.51",
+    "www": "http://mud.dusk.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Nuclear War",
+    "host": "nuclearwarmudusa.com",
+    "port": "4080",
+    "ip": "",
+    "www": "http://www.facebook.com/groups/2388573108/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Chonicles 2: The Dark Ages",
+    "host": "dalazonen.com",
+    "port": "9009",
+    "ip": "78.73.20.227",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Lords and Legends",
+    "host": "jupe.ddns.net",
+    "port": "4000",
+    "ip": "24.155.215.164",
+    "www": "http://jupe.ddns.net:27744/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Teenagers From Outer Space MUX (TFOS)",
+    "host": "tfosmux.org",
+    "port": "2511",
+    "ip": "209.251.21.149",
+    "www": "http://www.tfosmux.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "A"
+  },
+  {
+    "title": "StickMUD",
+    "host": "stickmud.com",
+    "port": "7680",
+    "ip": "",
+    "www": "http://www.stickmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Tempora Heroica",
+    "host": "login.ibiblio.org",
+    "port": "2895",
+    "ip": "152.19.134.132",
+    "www": "http://www.ibiblio.org/TH/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "TempusMUD",
+    "host": "tempusmud.com",
+    "port": "2020",
+    "ip": "129.59.116.84",
+    "www": "http://tempusmud.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "TerraFirmA",
+    "host": "terrafirma.terra.mud.org",
+    "port": "2222",
+    "ip": "94.136.56.220",
+    "www": "http://terrafirma.terra.mud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "A"
+  },
+  {
+    "title": "Redemption",
+    "host": "mud.redemptionmud.com",
+    "port": "4000",
+    "ip": "104.131.119.237",
+    "www": "http://redemptionmud.respawngaming.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Tharsis Gate",
+    "host": "tharsis-gate.org",
+    "port": "8765",
+    "ip": "67.18.195.218",
+    "www": "http://tharsis-gate.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Thieves World",
+    "host": "tw.genesismuds.com",
+    "port": "6000",
+    "ip": "216.136.9.8",
+    "www": "http://tw.genesismuds.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Avalice MUSH",
+    "host": "galaxy.silvren.com",
+    "port": "7248",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "TinyTIM",
+    "host": "yay.tim.org",
+    "port": "5440",
+    "ip": "155.37.1.251",
+    "www": "http://www.tim.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "Sentience",
+    "host": "sentience.megacosm.net",
+    "port": "9009",
+    "ip": "",
+    "www": "http://sentiencemud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Swords of Chaos",
+    "host": "bbs.soc4ever.com",
+    "port": "23",
+    "ip": "173.44.130.141",
+    "www": "http://www.soc4ever.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "AOH - Age of Humanity",
+    "host": "aoh.genesismuds.com",
+    "port": "6969",
+    "ip": "216.136.9.8",
+    "www": "http://",
+    "msp": true,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "Persona MUSH",
+    "host": "mysterymeep.net",
+    "port": "2012",
+    "ip": "",
+    "www": "http://www.divisionbyzero.org/personawiki/Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "KinslayerMUD",
+    "host": "www.kinslayermud.org",
+    "port": "2222",
+    "ip": "199.217.116.144",
+    "www": "http://www.kinslayermud.org",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "TrekMUSH - Among The Stars",
+    "host": "ats.trekmush.org",
+    "port": "1701",
+    "ip": "108.192.136.100",
+    "www": "http://wiki.trekmush.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Tsunami",
+    "host": "tsunami.thebigwave.net",
+    "port": "23",
+    "ip": "63.199.10.52",
+    "www": "http://www.thebigwave.net/index.html",
+    "msp": true,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Turf",
+    "host": "turf.org",
+    "port": "4000",
+    "ip": "212.87.84.207",
+    "www": "http://www.turf.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Twilight",
+    "host": "twilight.tigerden.com",
+    "port": "6010",
+    "ip": "198.30.162.10",
+    "www": "http://www.tigerden.com/~twilight/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Stick in the MUD",
+    "host": "mud.stick.org",
+    "port": "9000",
+    "ip": "209.83.132.84",
+    "www": "http://bb7.betterbox.net/~stick/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "The Two Towers",
+    "host": "towers.t2tmud.org",
+    "port": "9999",
+    "ip": "69.31.40.34",
+    "www": "http://www.t2tmud.org",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "UglyMug",
+    "host": "uglymug.org.uk",
+    "port": "6239",
+    "ip": "195.82.120.242",
+    "www": "http://www.uglymug.org.uk",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "The Godwars: War of Legend",
+    "host": "waroflegend.net",
+    "port": "4200",
+    "ip": "178.79.173.99",
+    "www": "http://www.waroflegend.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Heroes of the Lance III",
+    "host": "hotl3.com",
+    "port": "5000",
+    "ip": "",
+    "www": "http://hotl3.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Underworld",
+    "host": "mud.theuw.net",
+    "port": "5000",
+    "ip": "204.97.156.8",
+    "www": "http://www.theuw.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "CLOK",
+    "host": "clok.contrarium.net",
+    "port": "4000",
+    "ip": "",
+    "www": "http://clok.contrarium.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Shangrila",
+    "host": "shangrilamux.com",
+    "port": "9999",
+    "ip": "216.93.247.2",
+    "www": "http://shangrilamux.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "UNItopia",
+    "host": "UNItopia.de",
+    "port": "23",
+    "ip": "217.11.52.246",
+    "www": "http://UNItopia.de",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Dark Metal",
+    "host": "darkmetal2039.com",
+    "port": "2039",
+    "ip": "64.85.163.84",
+    "www": "http://www.darkmetal2039.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Kallisti MUD",
+    "host": "kallistimud.com",
+    "port": "4000",
+    "ip": "75.50.248.16",
+    "www": "http://www.kallistimud.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Valhalla MUD",
+    "host": "valhalla.com",
+    "port": "4242",
+    "ip": "174.129.223.119",
+    "www": "http://www.valhalla.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "V"
+  },
+  {
+    "title": "Valheru Mud",
+    "host": "mud.valheru.com",
+    "port": "4242",
+    "ip": "80.62.233.170",
+    "www": "http://www.valheru.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "V"
+  },
+  {
+    "title": "AnsibleMOO",
+    "host": "ansiblemoo.org",
+    "port": "6000",
+    "ip": "76.74.248.104",
+    "www": "http://www.ansiblemoo.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Valley of the Nile",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://worldwideworlds.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Vampire Wars",
+    "host": "new.vampire-wars.com",
+    "port": "6666",
+    "ip": "216.151.95.156",
+    "www": "http://new.vampire-wars.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "VikingMUD",
+    "host": "vikingmud.org",
+    "port": "2001",
+    "ip": "129.240.67.246",
+    "www": "http://www.vikingmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Virtual Realities",
+    "host": "vr.frostbite.org",
+    "port": "3019",
+    "ip": "206.167.143.131",
+    "www": "http://vr.frotbite.org/vr.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Foo MOO",
+    "host": "foomoo.org",
+    "port": "4500",
+    "ip": "64.124.4.202",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Balderdash",
+    "host": "mud.khakassia.ru",
+    "port": "9000",
+    "ip": "194.84.44.35",
+    "www": "http://mud.khakassia.ru",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Ages of Despair",
+    "host": "mud.agesofdespair.net",
+    "port": "5000",
+    "ip": "129.241.210.28",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Escape from Destiny",
+    "host": "escape.wolfpaw.net",
+    "port": "2020",
+    "ip": "216.194.99.3",
+    "www": "http://escape.wolfpaw.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Waterdeep",
+    "host": "waterdeep.org",
+    "port": "4200",
+    "ip": "173.255.199.200",
+    "www": "http://www.waterdeep.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Wheel of Time",
+    "host": "game.wotmud.org",
+    "port": "2224",
+    "ip": "game.wotmud.org",
+    "www": "http://www.wotmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "StarMUD",
+    "host": "home.starmud.com",
+    "port": "4000",
+    "ip": "66.68.11.121",
+    "www": "http://www.starmud.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Intrepid",
+    "host": "intrepidmud.com",
+    "port": "4020",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Winter Night: Shadow Dreams",
+    "host": "winter.nightshadow.com",
+    "port": "5555",
+    "ip": "216.136.9.8",
+    "www": "http://TBA",
+    "msp": true,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Xyllomer",
+    "host": "xyllomer.de",
+    "port": "3000",
+    "ip": "131.234.36.100",
+    "www": "http://www.xyllomer.de/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Zee MUD",
+    "host": "mud.zeemud.org",
+    "port": "4000",
+    "ip": "209.128.72.218",
+    "www": "http://www.zeemud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "ZombieMUD",
+    "host": "zombiemud.org",
+    "port": "23",
+    "ip": "213.139.166.106",
+    "www": "http://zombiemud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Cthulhumud",
+    "host": "cthulhumud.com",
+    "port": "8889",
+    "ip": "68.16.220.34",
+    "www": "http://www.cthulhumud.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "D"
+  },
+  {
+    "title": "Anime Planet",
+    "host": "animeplanet.co",
+    "port": "3334",
+    "ip": "198.58.105.135",
+    "www": "http://anime-planet.wikidot.com/start",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Islands",
+    "host": "islands.genesismuds.com",
+    "port": "3000",
+    "ip": "216.136.9.8",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Acid Rain",
+    "host": "173.230.158.240",
+    "port": "7777",
+    "ip": "",
+    "www": "http://acidrainmoo.webs.com/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Icesus",
+    "host": "icesus.org",
+    "port": "23",
+    "ip": "83.150.67.106)",
+    "www": "http://www.icesus.org/Icesus/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Aladon MUD",
+    "host": "aladon.sovintel.ru",
+    "port": "9000",
+    "ip": "",
+    "www": "http://www.aladon.sovintel.ru/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Rupert",
+    "host": "rupert.twyst.org",
+    "port": "9040",
+    "ip": "64.192.106.229",
+    "www": "http://rupert.twyst.org/rupert/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Sociopolitical Ramifications",
+    "host": "muck.sprmuck.org",
+    "port": "23",
+    "ip": "66.228.36.208",
+    "www": "http://www.sprmuck.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "MOOsaico",
+    "host": "moo.di.uminho.pt",
+    "port": "7777",
+    "ip": "193.136.19.145",
+    "www": "http://moosaico.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Killer MUD",
+    "host": "killer.mud.pl",
+    "port": "4000",
+    "ip": "88.198.47.100",
+    "www": "http://www.killer.mud.pl/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Macross: New Horizon",
+    "host": "macross.genesismuds.com",
+    "port": "2050",
+    "ip": "216.136.9.21",
+    "www": "http://www.macrossnewhorizon.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Eternal Visions",
+    "host": "www.eternalvisions.net",
+    "port": "1200",
+    "ip": "",
+    "www": "http://www.eternalvisions.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Cleft of Dimension",
+    "host": "cleftofdimension.com",
+    "port": "9000",
+    "ip": "66.221.0.71",
+    "www": "http://www.cleftofdimension.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Frandum",
+    "host": "frandum.fr",
+    "port": "2001",
+    "ip": "88.191.99.79",
+    "www": "http://www.frandum.fr",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Dark Skies",
+    "host": "pulsar.dune.net",
+    "port": "2001",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "Beleriand",
+    "host": "middleearth.net",
+    "port": "4739",
+    "ip": "72.14.184.82",
+    "www": "http://mux.net/~bele/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Green Leaf",
+    "host": "www.the-green-leaf.de",
+    "port": "2000",
+    "ip": "",
+    "www": "http://www.the-green-leaf.de/thegreenleaf.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Ryksyll MOO",
+    "host": "moo.ryksyll.com",
+    "port": "8888",
+    "ip": "64.114.80.174",
+    "www": "http://www.ryksyll.com:8889/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Fantasy Moon",
+    "host": "galaxy.silvren.com",
+    "port": "2900",
+    "ip": "67.223.233.232",
+    "www": "http://fantasymoon.spodzone.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Nanvaent",
+    "host": "nanvaent.org",
+    "port": "23",
+    "ip": "195.40.6.44",
+    "www": "http://www.nanvaent.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Tauros",
+    "host": "taurosmud.com",
+    "port": "5005",
+    "ip": "208.20.1.200",
+    "www": "http://www.taurosmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Arkadia",
+    "host": "arkadia.rpg.pl",
+    "port": "23",
+    "ip": "212.76.32.55",
+    "www": "http://arkadia.rpg.pl/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Mirrors of the Wheel",
+    "host": "mirrorsmud.net",
+    "port": "2222",
+    "ip": "23.25.43.81",
+    "www": "http://www.mirrorsmud.com/forums",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Haelrahv",
+    "host": "haelrahv.com",
+    "port": "3001",
+    "ip": "65.102.79.120",
+    "www": "http://www.haelrahv.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "DarkBlade",
+    "host": "darkblade.icecoolcode.com",
+    "port": "7575",
+    "ip": "213.121.122.219",
+    "www": "http://darkblade.ath.cx",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dark Isles",
+    "host": "dark-isles.com",
+    "port": "8500",
+    "ip": "",
+    "www": "http://www.dark-isles.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "ForgottenMUD",
+    "host": "",
+    "port": "2300",
+    "ip": "162.243.211.46",
+    "www": "http://sites.google.com/site/forgottenmud",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "The Void",
+    "host": "void.greenfinch.com",
+    "port": "1234",
+    "ip": "85.158.41.186",
+    "www": "http://void.greenfinch.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Accursed Lands",
+    "host": "mud.accursed-lands.com",
+    "port": "8000",
+    "ip": "",
+    "www": "http://www.accursed-lands.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dragons Domain IV",
+    "host": "dd4.smihilist.com",
+    "port": "8888",
+    "ip": "104.236.143.51",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Worlds of Carnage",
+    "host": "wocmud.org",
+    "port": "4000",
+    "ip": "66.11.173.122",
+    "www": "http://www.wocmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Mortal Realms",
+    "host": "game.mortalrealms.com",
+    "port": "4321",
+    "ip": "64.78.150.145",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Kingdoms3",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.httpgames.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Star Wars MUSH",
+    "host": "starwarsmush.com",
+    "port": "4402",
+    "ip": "216.122.217.158",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dark Mists",
+    "host": "darkmists.org",
+    "port": "2222",
+    "ip": "68.184.224.38",
+    "www": "http://www.darkmists.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Bakhara",
+    "host": "bakhara.org",
+    "port": "4000",
+    "ip": "65.174.94.169",
+    "www": "http://www.bakhara.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Ascii",
+    "host": "teenymush.dynu.net",
+    "port": "4096",
+    "ip": "",
+    "www": "http://www.teenymush.dynu.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "VanciaMUD",
+    "host": "vanciamud.fr",
+    "port": "4000",
+    "ip": "94.23.226.19",
+    "www": "http://www.vanciamud.fr",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Wyvern",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.ghosttrack.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "FoxMUD",
+    "host": "mud.foxmud.com",
+    "port": "4848",
+    "ip": "96.3.110.176",
+    "www": "http://www.thancode.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Arrant Destiny",
+    "host": "admud.com",
+    "port": "1999",
+    "ip": "",
+    "www": "http://www.admud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Dragon Ball Star",
+    "host": "amn.biyg.org",
+    "port": "20000",
+    "ip": "199.180.250.22",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "End of Time",
+    "host": "eotmud.com",
+    "port": "4000",
+    "ip": "66.221.0.71",
+    "www": "http://www.eotmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Dawn",
+    "host": "23.241.198.57",
+    "port": "3000",
+    "ip": "23.241.198.57",
+    "www": "http://www.dawnmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Let Freedom Ring",
+    "host": "portent.genesismuds.com",
+    "port": "8020",
+    "ip": "",
+    "www": "http://letfreedomring.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "FieryMUD",
+    "host": "fierymud.org",
+    "port": "4000",
+    "ip": "64.209.253.130",
+    "www": "http://www.fierymud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dragonball Uprising",
+    "host": "amn.biyg.org",
+    "port": "3074",
+    "ip": "199.180.250.22",
+    "www": "http://",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "AtlantisMUX",
+    "host": "atlantis.mushpark.com",
+    "port": "7777",
+    "ip": "",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Legends of Excalibur (LoE)",
+    "host": "lofe.org",
+    "port": "8000",
+    "ip": "24.9.189.149",
+    "www": "http://www.lofe.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Aadarian Realms",
+    "host": "aadaria.net",
+    "port": "1111",
+    "ip": "178.79.173.99",
+    "www": "http://www.aadaria.net",
+    "msp": true,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Avalon (German)",
+    "host": "avalon.mud.de",
+    "port": "7777",
+    "ip": "80.246.114.208",
+    "www": "http://avalon.mud.de/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Babylon 5: The Last Best Hope",
+    "host": "babylon.monolithwebsystems.com",
+    "port": "2259",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Eternal Night II",
+    "host": "en.mudmagic.com",
+    "port": "9009",
+    "ip": "70.85.248.74",
+    "www": "http://en.mudmagic.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "Ancient Empires",
+    "host": "ae.satori-assoc.com",
+    "port": "5011",
+    "ip": "",
+    "www": "",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "M*U*S*H",
+    "host": "mush.pennmush.org",
+    "port": "4201",
+    "ip": "128.248.90.39",
+    "www": "http://www.pennmush.org/mush/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Kingdoms of the Lost",
+    "host": "kotl.org",
+    "port": "2222",
+    "ip": "173.193.107.10",
+    "www": "http://www.kotl.org/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "LuminariMUD",
+    "host": "luminarimud.com",
+    "port": "4100",
+    "ip": "50.28.74.132",
+    "www": "http://www.LuminariMUD.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "T"
+  },
+  {
+    "title": "Isengard",
+    "host": "isengard.nazgul.com",
+    "port": "4040",
+    "ip": "",
+    "www": "http://isengard.nazgul.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "2016's Eternal Darkness",
+    "host": "eternaldarkness.net",
+    "port": "9700",
+    "ip": "216.136.9.8",
+    "www": "http://eternaldarkness.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Darkness and Despair",
+    "host": "desolation.org",
+    "port": "4201",
+    "ip": "204.10.33.129",
+    "www": "http://www.squid.org/darkness-despair-mud",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Anarres II",
+    "host": "mudlib.anarres.org",
+    "port": "5000",
+    "ip": "195.82.114.164",
+    "www": "http://www.anarres.org/projects/mud/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Edge of Creation",
+    "host": "edgeofcreation.net",
+    "port": "5665",
+    "ip": "204.209.44.3",
+    "www": "http://www.edgeofcreation.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "New Worlds",
+    "host": "www.ateraan.com",
+    "port": "4002",
+    "ip": "207.235.90.9",
+    "www": "http://www.ateraan.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Eternal Forest",
+    "host": "eternalforest.net",
+    "port": "9000",
+    "ip": "128.177.27.161",
+    "www": "http://www.eternalforest.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "Shadowrun - Denver",
+    "host": "aelfhame.net",
+    "port": "1999",
+    "ip": "65.16.31.222",
+    "www": "http://www.aelfhame.net/~denver/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "NarniaMUCK",
+    "host": "muck.narniamuck.org",
+    "port": "2050",
+    "ip": "69.163.174.152",
+    "www": "http://www.narniamuck.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Overdrive",
+    "host": "overdrive.overdrivemud.net",
+    "port": "5195",
+    "ip": "",
+    "www": "http://overdrive.wikia.com/wiki/Overdrive_Wiki",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Aarchon",
+    "host": "aarchonmud.com",
+    "port": "7000",
+    "ip": "144.217.205.176",
+    "www": "http://www.aarchonmud.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "aGe oF iNsaNitY",
+    "host": "ageofinsanity.org",
+    "port": "4000",
+    "ip": "69.195.134.207",
+    "www": "http://www.ageofinsanity.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Realm of Shadows",
+    "host": "realmofshadows.us",
+    "port": "1133",
+    "ip": "175.195.86.15",
+    "www": "http://www.realmofshadows.us/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Nightmist",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.nightmist.co.uk/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Ministry",
+    "host": "carcosa.org",
+    "port": "6969",
+    "ip": "63.214.237.160",
+    "www": "http://carcosa.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Ragnarok",
+    "host": "rag.com",
+    "port": "2222",
+    "ip": "138.197.222.220",
+    "www": "http://https://www.rag.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Imperian: The Sundered Heavens",
+    "host": "imperian.com",
+    "port": "23",
+    "ip": "69.65.40.19",
+    "www": "http://www.imperian.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "NostalgiaMUD",
+    "host": "nostalgiamud.l-w.ca",
+    "port": "4000",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Helliconia",
+    "host": "",
+    "port": "9000",
+    "ip": "217.10.10.195",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Eye of the World MUD",
+    "host": "wot.eyemud.com",
+    "port": "2222",
+    "ip": "50.116.55.253",
+    "www": "http://www.eyemud.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "The Inquisition: Legacy",
+    "host": "ti-legacy.com",
+    "port": "5050",
+    "ip": "68.71.141.229",
+    "www": "http://ti-legacy.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "GemStone IV",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.play.net/gs3/?refer=MUDCONNECT",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Star Conquest",
+    "host": "squidsoft.net",
+    "port": "7777",
+    "ip": "",
+    "www": "http://squidsoft.net/sc",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Angelic Layer MUSH",
+    "host": "angelic.genesismuds.com",
+    "port": "7705",
+    "ip": "216.136.9.5",
+    "www": "http://angelic.genesismuds.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Warlock",
+    "host": "warlock.pl",
+    "port": "23",
+    "ip": "213.77.44.100",
+    "www": "http://www.warlock.pl/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Beyond the Veil of Shadows",
+    "host": "btvos.wolfpaw.net",
+    "port": "9000",
+    "ip": "btvos.wolfpaw.n",
+    "www": "http://btvos.wolfpaw.net/index.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "God Wars II",
+    "host": "godwars2.org",
+    "port": "3000",
+    "ip": "93.93.128.88",
+    "www": "http://www.godwars2.org",
+    "msp": true,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Balzhur",
+    "host": "mud.balzhur.org",
+    "port": "5400",
+    "ip": "216.136.9.8",
+    "www": "http://www.balzhur.org/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "S"
+  },
+  {
+    "title": "Geas",
+    "host": "geas.franken.de",
+    "port": "3333",
+    "ip": "194.94.249.6",
+    "www": "http://www.geas.de",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Star Wars: Fate of The Republic",
+    "host": "fateoftherepublic.com",
+    "port": "1313",
+    "ip": "",
+    "www": "http://fateoftherepublic.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Wing Commander",
+    "host": "grapenut.org",
+    "port": "4201",
+    "ip": "206.123.68.57",
+    "www": "http://grapenut.org/wingcommander",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Cuendillar MUSH",
+    "host": "cuendillar.org",
+    "port": "7200",
+    "ip": "74.52.77.2",
+    "www": "http://www.cuendillarwiki.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Neronis",
+    "host": "neronis.ru",
+    "port": "9000",
+    "ip": "72.232.10.44",
+    "www": "http://neronis.ru/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Star Wars: Dawn of Defiance",
+    "host": "rhostmush.com",
+    "port": "9901",
+    "ip": "",
+    "www": "http://swdod.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Tapestries MUCK",
+    "host": "tapestries.fur.com",
+    "port": "2069",
+    "ip": "66.120.4.170",
+    "www": "http://www.fur.com/tapestries",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dark Lair",
+    "host": "tiopon.mudmagic.com",
+    "port": "3500",
+    "ip": "173.193.107.10",
+    "www": "http://tiopon.mudmagic.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "Dark Castle",
+    "host": "dcastle.org",
+    "port": "23",
+    "ip": "206.222.16.146",
+    "www": "http://www.dcastle.org",
+    "msp": true,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Star Wars: Legacy of the Sith",
+    "host": "legacyofthesith.com",
+    "port": "3000",
+    "ip": "23.235.195.140",
+    "www": "http://www.legacyofthesith.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Big Damn MUSH :: Be a Hero",
+    "host": "bigdamn.com",
+    "port": "7777",
+    "ip": "74.208.12.166",
+    "www": "http://www.bigdamn.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Seattle 2064",
+    "host": "mud.seattle2064.net",
+    "port": "4000",
+    "ip": "",
+    "www": "http://mud.seattle2064.net:8000/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Islands of Myth",
+    "host": "islandsofmyth.org",
+    "port": "3000",
+    "ip": "64.38.234.56",
+    "www": "http://www.islandsofmyth.org/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Marvel Reborn",
+    "host": "mo.mushpark.com",
+    "port": "2012",
+    "ip": "199.48.128.198",
+    "www": "http://marvelreborn.wikidot.com/home",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "CaveMUSH",
+    "host": "cavemush.com",
+    "port": "6116",
+    "ip": "",
+    "www": "http://www.cavemush.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Shadow Siege",
+    "host": "shadowsiege.com",
+    "port": "4080",
+    "ip": "64.46.100.26",
+    "www": "http://www.shadowsiege.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Firan",
+    "host": "firan.legendary.org",
+    "port": "5000",
+    "ip": "207.239.159.232",
+    "www": "http://www.legendary.org/firan/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Gathering...",
+    "host": "tgmud.net",
+    "port": "9010",
+    "ip": "",
+    "www": "http://tgmud.net/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "D"
+  },
+  {
+    "title": "Indeterminate Destiny",
+    "host": "144.217.205.176",
+    "port": "2000",
+    "ip": "144.217.205.176",
+    "www": "http://shryp.ashendust.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "ParallelRPI",
+    "host": "parallelrpi.com",
+    "port": "4500",
+    "ip": "192.95.60.241",
+    "www": "http://forum.parallelrpi.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Barsawia",
+    "host": "mud.barsawia.pl",
+    "port": "23",
+    "ip": "176.122.224.175",
+    "www": "http://forum.barsawia.pl",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Lament: The Age of Wind and Wolves",
+    "host": "lament.ghostglass.net",
+    "port": "8600",
+    "ip": "208.72.87.174",
+    "www": "http://lament.ghostglass.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "NarutoMUD",
+    "host": "narutofor.us",
+    "port": "4545",
+    "ip": "",
+    "www": "http://narutofor.us",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Exalted MUSH: Where Rivers Meet",
+    "host": "phantasmgames.org",
+    "port": "2526",
+    "ip": "192.95.60.225",
+    "www": "http://phantasmgames.org/ex/wiki/index.php?title=Main_Page",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "United Heroes MUSH",
+    "host": "unitedheroesmush.com",
+    "port": "1999",
+    "ip": "208.113.129.54",
+    "www": "http://www.unitedheroesmush.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Builder Academy",
+    "host": "tbamud.com",
+    "port": "9091",
+    "ip": "84.49.244.105",
+    "www": "http://www.tbamud.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "T"
+  },
+  {
+    "title": "Mega Man Mush",
+    "host": "megamanmush.com",
+    "port": "1997",
+    "ip": "74.54.135.2",
+    "www": "http://www.megamanmush.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Lac",
+    "host": "lac.pl",
+    "port": "4000",
+    "ip": "217.113.224.6",
+    "www": "http://lac.pl/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Promage",
+    "host": "promage.hopto.org",
+    "port": "4000",
+    "ip": "213.224.18.151",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Land",
+    "host": "theland.notroot.com",
+    "port": "5000",
+    "ip": "52.4.189.37",
+    "www": "http://None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Fallout MUSH",
+    "host": "Falloutmush.com",
+    "port": "2077",
+    "ip": "45.55.233.3",
+    "www": "http://www.falloutmush.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Threshold RPG",
+    "host": "thresholdrpg.com",
+    "port": "3333",
+    "ip": "64.253.106.100",
+    "www": "http://www.thresholdrpg.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "InfernoMOO",
+    "host": "inferno.optiquest.org",
+    "port": "7777",
+    "ip": "71.175.101.198 ",
+    "www": "http://inferno.optiquest.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Reinos De Leyenda - Los años oscuros",
+    "host": "rlmud.org",
+    "port": "5001",
+    "ip": "91.121.115.162",
+    "www": "http://www.rlmud.org",
+    "msp": true,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "SluggyMARE",
+    "host": "winds.org",
+    "port": "8000",
+    "ip": "68.75.195.9",
+    "www": "http://winds.org/sluggymare/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "MUCK University",
+    "host": "muck.universitymuck.org",
+    "port": "2052",
+    "ip": "",
+    "www": "http://www.universitymuck.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Forgotten Kingdoms",
+    "host": "forgottenkingdoms.org",
+    "port": "4000",
+    "ip": "193.1.99.91",
+    "www": "http://www.forgottenkingdoms.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Haven Of The Embraced",
+    "host": "havenmud.net",
+    "port": "2000",
+    "ip": "192.99.42.25",
+    "www": "http://havenmud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Ashirion: The Broken Sphere",
+    "host": "ashirion.co.uk",
+    "port": "1969",
+    "ip": "66.51.97.35",
+    "www": "http://ashirion.co.uk",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "the-night.com",
+    "host": "the-night.com",
+    "port": "2007",
+    "ip": "",
+    "www": "http://www.the-night.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Northern Vampire Mysteries",
+    "host": "nvm.ilmatar.net",
+    "port": "8456",
+    "ip": "194.89.32.164",
+    "www": "http://nvm.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Castle D'Image",
+    "host": "mux.net",
+    "port": "5555",
+    "ip": "65.99.219.5",
+    "www": "http://www.castledimage.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Arthnor",
+    "host": "q.geek.nz",
+    "port": "8888",
+    "ip": "",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Star Trek: Faded Glory",
+    "host": "startrek.corpexpanse.com",
+    "port": "2100",
+    "ip": "184.106.112.127",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Akarian Dawn: Shadows of an Empire",
+    "host": "brennor.dyndns.org",
+    "port": "1896",
+    "ip": "",
+    "www": "http://brennor.dyndns.org/akdawn/akdawn.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Shattered World",
+    "host": "shattered.org",
+    "port": "23",
+    "ip": "218.214.18.63",
+    "www": "http://www.shattered.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Dawn of the Ages",
+    "host": "rplay.net",
+    "port": "8000",
+    "ip": "81.169.133.101",
+    "www": "http://rplay.net/main.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Gueldenland",
+    "host": "gueldenland.de",
+    "port": "4444",
+    "ip": "213.73.92.60",
+    "www": "http://www.gueldenland.de/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Imperial v3.5",
+    "host": "imperial.modeemi.fi",
+    "port": "6969",
+    "ip": "130.230.72.163",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Prospect: From The Ashes",
+    "host": "prs.muxnexus.com",
+    "port": "5555",
+    "ip": "71.171.93.80",
+    "www": "http://prospect.muxnexus.com/index.php/Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Distant Travels",
+    "host": "mumuck.com",
+    "port": "14002",
+    "ip": "104.178.27.93",
+    "www": "http://distanttravels.neocities.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "WinterMoon",
+    "host": "wintermoon.servebeer.com",
+    "port": "4003",
+    "ip": "66.228.59.28",
+    "www": "http://",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Moomellow",
+    "host": "moomellow.com",
+    "port": "7777",
+    "ip": "67.227.230.49",
+    "www": "http://www.moomellow.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Naruto MUSH Legacy",
+    "host": "narutomu.com",
+    "port": "7777",
+    "ip": "67.205.162.236",
+    "www": "http://https://narutomushlegacy.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dream Chasers",
+    "host": "dreamchasers.space",
+    "port": "4767",
+    "ip": "",
+    "www": "http://https://dreamchasers.space/Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Road to Amber",
+    "host": "roadtoamber.com",
+    "port": "6250",
+    "ip": "216.136.9.8",
+    "www": "http://roadtoamber.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "/TG/MUD",
+    "host": "mud.tgchan.org",
+    "port": "5555",
+    "ip": "68.71.59.143",
+    "www": "http://mud.tgchan.org:27744",
+    "msp": true,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Elusive Dreams",
+    "host": "elusive.genesismuds.com",
+    "port": "8800",
+    "ip": "216.136.9.5",
+    "www": "http://elusive.genesismuds.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "DS Wonderland",
+    "host": "dswonderland.com",
+    "port": "6969",
+    "ip": "",
+    "www": "http://www.dswonderland.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Tubmud",
+    "host": "tubmud.de",
+    "port": "7680",
+    "ip": "85.214.44.4",
+    "www": "http://www.tubmud.de",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Legends of Hatred",
+    "host": "godwars.net",
+    "port": "3500",
+    "ip": "178.79.173.99",
+    "www": "http://https://www.facebook.com/LegendsOfHatred/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "Midnight Sun 2",
+    "host": "midnightsun2.org",
+    "port": "3000",
+    "ip": "83.163.76.220",
+    "www": "http://midnightsun2.org:3328",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Shadows of the underworld",
+    "host": "godwars.net",
+    "port": "3560",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "Static Chaos - Still Alive",
+    "host": "staticchaos.mudhosting.net",
+    "port": "1982",
+    "ip": "208.43.220.232",
+    "www": "http://www.staticchaos.mudhosting.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Haven",
+    "host": "haven.havenmud.com",
+    "port": "4000",
+    "ip": "70.226.46.181",
+    "www": "http://haven.havenmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Lusternia: Age of Ascension",
+    "host": "lusternia.com",
+    "port": "23",
+    "ip": "69.65.42.86",
+    "www": "http://www.imperian.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Bedlam",
+    "host": "bedlam.mudportal.com",
+    "port": "9000",
+    "ip": "54.225.185.66",
+    "www": "http://bedlam.mudportal.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Federation II",
+    "host": "fed2.ibgames.net",
+    "port": "30003",
+    "ip": "",
+    "www": "http://www.ibgames.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Awakened Worlds",
+    "host": "awakenedworlds.net",
+    "port": "4000",
+    "ip": "192.95.60.229",
+    "www": "http://www.awakenedworlds.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Solar Eclipse",
+    "host": "solareclipse.genesismuds.com",
+    "port": "4321",
+    "ip": "216.136.9.8",
+    "www": "http://None",
+    "msp": false,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Neighvada Nights",
+    "host": "neighvadanights.com",
+    "port": "8888",
+    "ip": "",
+    "www": "http://www.neighvadanights.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "PhoenixMUD",
+    "host": "phoenixmud.net",
+    "port": "4000",
+    "ip": "37.59.41.114",
+    "www": "http://https://phoenixmud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Prometheus: The Eternal Wars",
+    "host": "prometheus-enterprises.com",
+    "port": "2223",
+    "ip": "92.222.29.139",
+    "www": "http://prometheus-enterprises.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "RavenMUD",
+    "host": "ravenmud.com",
+    "port": "6060",
+    "ip": "",
+    "www": "http://ravenmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Synergy",
+    "host": "synergy.org",
+    "port": "2000",
+    "ip": "67.168.158.85",
+    "www": "http://www.synergy.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "DynamixMUSH",
+    "host": "dynamix.socialmush.com",
+    "port": "4200",
+    "ip": "72.19.140.173",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Cryosphere",
+    "host": "cryosphere.org",
+    "port": "6666",
+    "ip": "87.106.161.217",
+    "www": "http://cryosphere.net/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Simauria",
+    "host": "mud.simauria.org",
+    "port": "23",
+    "ip": "212.95.202.204",
+    "www": "http://mud.simauria.org",
+    "msp": true,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Chaos Mud",
+    "host": "",
+    "port": "1111",
+    "ip": "173.230.134.240",
+    "www": "http://www.chaosmud.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Ensimud",
+    "host": "ensimud.net",
+    "port": "4500",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Edge of Twilight",
+    "host": "edgeoftwilight.net",
+    "port": "2004",
+    "ip": "",
+    "www": "http://www.angelfire.com/ny/Briata/EOT.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Asteria",
+    "host": "asteriamud.com",
+    "port": "1111",
+    "ip": "",
+    "www": "http://asteriamud.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Coast of Seven Incarnations",
+    "host": "mud.c7i.ru",
+    "port": "4000",
+    "ip": "62.64.20.17",
+    "www": "http://www.c7i.ru",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Abandoned Reality",
+    "host": "64.22.103.201",
+    "port": "4443",
+    "ip": "64.22.103.201",
+    "www": "http://www.Abandoned.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "SnapMUD",
+    "host": "bttl.ga",
+    "port": "9000",
+    "ip": "5.175.139.211",
+    "www": "http://bttl.ga/snap/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Miriani",
+    "host": "toastsoft.net",
+    "port": "1234",
+    "ip": "",
+    "www": "http://www.toastsoft.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "StuphMUD",
+    "host": "stuphmud.net",
+    "port": "2112",
+    "ip": "108.166.67.148",
+    "www": "http://stuphmud.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Tempora Sanguinis 2",
+    "host": "mud.temporasanguinis.it",
+    "port": "4000",
+    "ip": "",
+    "www": "http://www.temporasanguinis.it",
+    "msp": true,
+    "mxp": true,
+    "codebase": "D"
+  },
+  {
+    "title": "DragonStone",
+    "host": "dragonstone.mudmagic.com",
+    "port": "2345",
+    "ip": "173.193.107.10",
+    "www": "http://",
+    "msp": false,
+    "mxp": true,
+    "codebase": "E"
+  },
+  {
+    "title": "HighVelocity Paintball  (HVPB)",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.hvpb.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "X-Men: rEvolution",
+    "host": "xmenrevolution.com",
+    "port": "7717",
+    "ip": "97.107.134.16",
+    "www": "http://https://xmenrevolution.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "KitsuMUCK",
+    "host": "kitsumuck.com",
+    "port": "8888",
+    "ip": "67.162.70.168",
+    "www": "http://www.kitsumuck.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Void of Reality",
+    "host": "vor.midpointvoid.net",
+    "port": "7777",
+    "ip": "35.160.154.110",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Everwar Rebirth Redux",
+    "host": "",
+    "port": "4242",
+    "ip": "104.131.227.160",
+    "www": "http://https://www.facebook.com/EverwarRedux/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "DBZ: Edge of Chaos",
+    "host": "mud.morchronium.com",
+    "port": "8495",
+    "ip": "69.137.67.155",
+    "www": "http://None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Darklord MUD by Mogwai",
+    "host": "darklordmud.duckdns.org",
+    "port": "5000",
+    "ip": "88.242.65.58",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Renegade Outpost 5",
+    "host": "renegadeoutpost.com",
+    "port": "9999",
+    "ip": "65.41.106.78",
+    "www": "http://www.renegadeoutpost.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Cosmic Cuttlefish",
+    "host": "mush.CosmicCuttlefish.org",
+    "port": "8178",
+    "ip": "205.185.125.69",
+    "www": "http://www.CosmicCuttlefish.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Witchcraft and Wizardry",
+    "host": "wiandwi.net",
+    "port": "1936",
+    "ip": "93.186.193.48",
+    "www": "http://wandw.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Archons of Avenshar",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.avenshar.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Equilibrium MUD",
+    "host": "server.equilibrium-mud.org",
+    "port": "4000",
+    "ip": "195.36.6.25",
+    "www": "http://www.equilibrium-mud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "A"
+  },
+  {
+    "title": "Asgardian Nightmare Turbo",
+    "host": "wayynesgames.com",
+    "port": "2222",
+    "ip": "47.205.10.122",
+    "www": "http://www.wayynesgames.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Typhon Accords TrekMU",
+    "host": "startrekkin.net",
+    "port": "1701",
+    "ip": "69.60.124.201",
+    "www": "http://www.startrekkin.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Grimwood",
+    "host": "grimwood.ddns.net",
+    "port": "4201",
+    "ip": "46.231.13.192",
+    "www": "http://grimwood.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "RivaMUSH",
+    "host": "riva.silvren.com",
+    "port": "7777",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Distant Lands",
+    "host": "dl2.net",
+    "port": "23",
+    "ip": "207.156.37.197",
+    "www": "http://www.dl2.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Comic Adventures MUX",
+    "host": "galaxy.silvren.com",
+    "port": "4220",
+    "ip": "71.171.93.80",
+    "www": "http://comicadventures.wikia.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "OurPlace MUD",
+    "host": "ourplace.fractured.org",
+    "port": "6543",
+    "ip": "206.111.81.5",
+    "www": "http://ourplace.fractured.org",
+    "msp": true,
+    "mxp": true,
+    "codebase": "E"
+  },
+  {
+    "title": "Star Wars: Legacy",
+    "host": "mudsite.com",
+    "port": "2500",
+    "ip": "129.21.60.137",
+    "www": "http://s9.invisionfree.com/Ashes_of_the_Empire/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Twilight of the Gods",
+    "host": "totg.genesismuds.com",
+    "port": "6969",
+    "ip": "216.136.9.21",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Moral Decay",
+    "host": "playdecay.com",
+    "port": "3003",
+    "ip": "66.251.193.216",
+    "www": "http://www.moraldecaymud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Metropolis MOO",
+    "host": "metropolismoo.co.uk",
+    "port": "7777",
+    "ip": "5.133.180.215",
+    "www": "http://www.metropolismoo.co.uk",
+    "msp": true,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Medieval Times MUD",
+    "host": "timesmud.com",
+    "port": "8500",
+    "ip": "213.186.62.210",
+    "www": "http://www.timesmud.com/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "FurryFaire",
+    "host": "muck.furryfaire.org",
+    "port": "8888",
+    "ip": "",
+    "www": "http://www.furryfaire.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Arcane Ages",
+    "host": "arcaneages.com",
+    "port": "4000",
+    "ip": "75.101.147.27",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "TwistedMUCK",
+    "host": "charis.servegame.com",
+    "port": "4242",
+    "ip": "",
+    "www": "http://www.marrowproductions.com/Twisted/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Legacy MUCK",
+    "host": "muq.org",
+    "port": "9999",
+    "ip": "50.0.67.235",
+    "www": "http://muq.org/~legacy/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Multiverse Crisis MUSH",
+    "host": "multiversemush.com",
+    "port": "5001",
+    "ip": "66.85.147.85",
+    "www": "http://www.multiversemush.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Kallindor",
+    "host": "kallindor.com",
+    "port": "5800",
+    "ip": "",
+    "www": "http://kallindor.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "GNSmud",
+    "host": "gnsmud.org",
+    "port": "8989",
+    "ip": "23.226.230.177",
+    "www": "http://gnsmud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "JellyBean III",
+    "host": "the3beers.com",
+    "port": "5555",
+    "ip": "173.175.92.61",
+    "www": "http://the3beers.com:27744/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Star Wars: Jedi vs Sith",
+    "host": "swjvs.themudhost.net",
+    "port": "8707",
+    "ip": "24.222.84.75",
+    "www": "http://swjvs.themudhost.net/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "FluxWorld",
+    "host": "centauri.servegame.com",
+    "port": "7777",
+    "ip": "",
+    "www": "http://centauri.servegame.com:8000/b2evolution/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "FurToonia",
+    "host": "ft.furtoonia.net",
+    "port": "9999",
+    "ip": "207.58.151.67",
+    "www": "http://www.furtoonia.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Stardust and Lightblades",
+    "host": "stardust.genesismuds.com",
+    "port": "4010",
+    "ip": "",
+    "www": "http://stardust.genesismuds.com/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "D"
+  },
+  {
+    "title": "Otherworld, the land of Tirn Aill",
+    "host": "tirnaill.com",
+    "port": "4000",
+    "ip": "69.89.16.224",
+    "www": "http://otherworldmud.blogspot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Cosmic Rage",
+    "host": "cosmicrage.nathantech.net",
+    "port": "7777",
+    "ip": "87.106.252.196",
+    "www": "http://nathantech.net/moo/index.php",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "MaDDness",
+    "host": "maddness.dune.net",
+    "port": "6000",
+    "ip": "108.92.171.117",
+    "www": "http://maddness.dune.net",
+    "msp": true,
+    "mxp": false,
+    "codebase": "A"
+  },
+  {
+    "title": "Silmarillia MUD",
+    "host": "mud.silmarillia.com",
+    "port": "4000",
+    "ip": "",
+    "www": "http://www.silmarillia.com",
+    "msp": true,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Once Upon A Time... Steampunk!",
+    "host": "mucks.cyberleo.net",
+    "port": "6660",
+    "ip": "66.219.31.21",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "EmpireMUD 2.0",
+    "host": "empiremud.net",
+    "port": "4000",
+    "ip": "63.142.253.253",
+    "www": "http://empiremud.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "U"
+  },
+  {
+    "title": "MUD Valinor",
+    "host": "mud.valinor.com.br",
+    "port": "4000",
+    "ip": "",
+    "www": "http://mud.valinor.com.br/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "LorenMUD",
+    "host": "lorenmud.com",
+    "port": "9100",
+    "ip": "104.236.92.118",
+    "www": "http://lorenmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Midian",
+    "host": "midianmud.com",
+    "port": "3456",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "YorMUSH",
+    "host": "yormush.com",
+    "port": "9988",
+    "ip": "216.27.172.50",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "AOH: Fire, Iron and Blood",
+    "host": "ianshirm.genesismuds.com",
+    "port": "2250",
+    "ip": "216.136.9.5",
+    "www": "http://None",
+    "msp": true,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "Transformers: 2K5 MUSH",
+    "host": "tf2005.net",
+    "port": "5555",
+    "ip": "69.60.111.246",
+    "www": "http://www.tf2005.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "A"
+  },
+  {
+    "title": "MicroMUSE",
+    "host": "micromuse.duckdns.org",
+    "port": "4201",
+    "ip": "71.126.237.163",
+    "www": "http://micromuse.duckdns.org:8080/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Virtustan MUD",
+    "host": "mud.kharkov.org",
+    "port": "8888",
+    "ip": "185.82.217.164",
+    "www": "http://mud.kharkov.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Minstrel Hall",
+    "host": "minstrelhall.com",
+    "port": "221",
+    "ip": "203.214.67.43",
+    "www": "http://www.minstrelhall.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Xanadu Station",
+    "host": "xanadu.gull.us",
+    "port": "8888",
+    "ip": "66.218.52.134",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Rise of Warriors",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.riseofwarriors.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Wing Commander: New Horizon",
+    "host": "wcmush.com",
+    "port": "2199",
+    "ip": "96.126.126.103",
+    "www": "http://www.wcmush.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Mass Effect: Legends",
+    "host": "208.113.129.54",
+    "port": "2183",
+    "ip": "",
+    "www": "http://melegends.wikidot.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Deathwish MUD",
+    "host": "dw.kicks-ass.org",
+    "port": "1111",
+    "ip": "",
+    "www": "http://dw.kicks-ass.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "MTBS Nations at War",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://www.mtbs3d.com/phpBB",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Retaliation",
+    "host": "godwars.net",
+    "port": "6100",
+    "ip": "",
+    "www": "http://",
+    "msp": true,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "Winter's Oasis",
+    "host": "muck.wintersoasis.com",
+    "port": "8888",
+    "ip": "173.255.192.183",
+    "www": "http://www.wintersoasis.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Scarlet",
+    "host": "scarlet-citadel.co.uk",
+    "port": "2000",
+    "ip": "81.3.107.171",
+    "www": "http://www.scarlet-citadel.co.uk",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "At the Crossroads MUX",
+    "host": "mythara.com",
+    "port": "9900",
+    "ip": "66.85.147.90",
+    "www": "http://atcmux.wikia.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Razor's Edge",
+    "host": "razors.speakgeek.org",
+    "port": "4000",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Second Contract",
+    "host": "game.second-contract.com",
+    "port": "6666",
+    "ip": "54.84.108.226",
+    "www": "http://www.second-contract.com/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Marvel: The Flame of Darkness",
+    "host": "kydance.net",
+    "port": "2008",
+    "ip": "23.239.25.183",
+    "www": "http://flameofdarknessmoo.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Star Wars Edge of Destiny",
+    "host": "swedgeofdestiny.net",
+    "port": "2424",
+    "ip": "66.85.147.90",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Meat II",
+    "host": "fatedtoend.com",
+    "port": "4000",
+    "ip": "Dynamic IP Addr",
+    "www": "http://None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Star Wars: Way Of The Force",
+    "host": "wotf.org",
+    "port": "23",
+    "ip": "195.242.99.94",
+    "www": "http://wotf.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Noir Haven MUCK",
+    "host": "mucks.cyberleo.net",
+    "port": "7878",
+    "ip": "66.219.31.21",
+    "www": "http://noirhavenmuck.wikia.com/wiki/Noir_Haven_MUCK_Wiki",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Jupiter's Children MUX",
+    "host": "jupiter.iamyourgod.org",
+    "port": "3169",
+    "ip": "",
+    "www": "http://jupiter.iamyourgod.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Unbridled Desires",
+    "host": "hercules.mthelicon.com",
+    "port": "8888",
+    "ip": "66.90.103.179",
+    "www": "http://www.angel-hare.com/acorn/muck/UDChar.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "TrollAttack",
+    "host": "trollattack.com",
+    "port": "4000",
+    "ip": "75.73.150.188",
+    "www": "http://www.trollattack.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "NaughtyMuffin MUSH",
+    "host": "muffinmush.club",
+    "port": "2469",
+    "ip": " 165.227.110.55",
+    "www": "http://",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Transformers: The Dark Eras MUSH",
+    "host": "mud.themudhost.net",
+    "port": "2005",
+    "ip": "24.222.84.75",
+    "www": "http://transformersthedarkeras.gamepedia.com/Transformers:_The_Dark_Eras_MUSH_Wiki",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Land of Neverending War",
+    "host": "fleamuds.fr.cr",
+    "port": "4500",
+    "ip": "91.204.116.150",
+    "www": "http://www.fleamuds.fr.cr",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "Devil's Bob MUD (DeBo MUD) (Brasil)",
+    "host": "debomud.org",
+    "port": "4000",
+    "ip": "71.19.147.24",
+    "www": "http://www.debomud.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "RubbeRoom",
+    "host": "rubberoom.org",
+    "port": "6969",
+    "ip": "63.127.79.11",
+    "www": "http://www.rubberoom.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Ironclaw Online",
+    "host": "ironclaw.skotos.net",
+    "port": "443",
+    "ip": "",
+    "www": "http://www.skotos.net/games/ironclaw/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Shattered Isles",
+    "host": "shatteredisles.net",
+    "port": "5900",
+    "ip": "149.56.232.44",
+    "www": "http://www.shatteredisles.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dark Wizardry",
+    "host": "darkwiz.cjoffline.com",
+    "port": "6969",
+    "ip": "64.200.181.31",
+    "www": "http://darkwizardry.com/mud/",
+    "msp": true,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "DragonBall: The New World",
+    "host": "mud.morchronium.com",
+    "port": "8395",
+    "ip": "69.137.67.155",
+    "www": "http://newworld.morchronium.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "d20MUD : Star Wars ( d20 / SAGA MUD )",
+    "host": "mud.d20mud.com",
+    "port": "5500",
+    "ip": "63.142.250.229",
+    "www": "http://www.d20mud.com/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Pegasus",
+    "host": "207.58.136.224",
+    "port": "4242",
+    "ip": "",
+    "www": "http://www.pegasusmuck.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Blood of Dragons: A Song of Ice and Fire MUSH",
+    "host": "bod.westeros.org",
+    "port": "3000",
+    "ip": "108.168.195.26",
+    "www": "http://www.westeros.org/BoD/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "ShadowGate MUD",
+    "host": "shadowgate.org",
+    "port": "4016",
+    "ip": "",
+    "www": "http://www.shadowgate.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Pokemon Fusion",
+    "host": "pokemonfusion.servegame.org",
+    "port": "4321",
+    "ip": "66.228.42.240",
+    "www": "http://pokemonfusion.servegame.org/index.php  ",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Act of War",
+    "host": "Actofwarmud.com",
+    "port": "4000",
+    "ip": "68.90.68.67",
+    "www": "http://www.actofwarmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "GateWay",
+    "host": "gatewaymud.org",
+    "port": "6969",
+    "ip": "",
+    "www": "http://www.gatewaymud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Erion",
+    "host": "erionmud.com",
+    "port": "1234",
+    "ip": "178.62.180.139",
+    "www": "http://erionmud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "GodWars: Apocalypse",
+    "host": "apoc.godwars.net",
+    "port": "6660",
+    "ip": "178.79.173.99",
+    "www": "http://www.godwars.net/~apoc",
+    "msp": true,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "PogoMUX",
+    "host": "pogo.mudhosting.net",
+    "port": "5555",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Gizmo DikuMud",
+    "host": "gizmomud.com",
+    "port": "6969",
+    "ip": "71.9.22.154",
+    "www": "http://www.gizmomud.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Deep Shadows",
+    "host": "deepshadowsmush.com",
+    "port": "6250",
+    "ip": "",
+    "www": "http://www.deepshadowsmush.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Lands of Chaos [EmlenMud]",
+    "host": "loc.midpointvoid.net",
+    "port": "3335",
+    "ip": "35.160.154.110",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "GreaterMUD",
+    "host": "greatermud.com",
+    "port": "23",
+    "ip": "208.127.188.139",
+    "www": "http://www.greatermud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Shadows of Isildur: Laketown RPI",
+    "host": "middle-earth.us",
+    "port": "4500",
+    "ip": "",
+    "www": "http://www.middle-earth.us",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "Iberia MUD",
+    "host": "iberiamud.mooo.com",
+    "port": "5900",
+    "ip": "85.138.112.144",
+    "www": "http://iberiamud.mooo.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Realms of Redemption",
+    "host": "redemption.us.to",
+    "port": "3000",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "The Evolution of Esos Mud",
+    "host": "eoemud.com",
+    "port": "8888",
+    "ip": "85.25.105.49",
+    "www": "http://eoemud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "The Last Outpost",
+    "host": "last-outpost.com",
+    "port": "4000",
+    "ip": "",
+    "www": "http://www.last-outpost.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "AnimeMUD",
+    "host": "",
+    "port": "9000",
+    "ip": "167.88.124.142",
+    "www": "http://167.88.124.142/anime",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Flexible Survival",
+    "host": "flexiblesurvival.com",
+    "port": "2222",
+    "ip": "",
+    "www": "http://web.flexiblesurvival.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "NYC: Veil of Shadows",
+    "host": "nycmush.net",
+    "port": "4228",
+    "ip": "",
+    "www": "http://www.nycmush.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "ShadowMUD",
+    "host": "shadowmud.com",
+    "port": "1030",
+    "ip": "216.136.9.8",
+    "www": "http://www.shadowmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Insymnia",
+    "host": "insymnia.com",
+    "port": "6600",
+    "ip": "",
+    "www": "http://insymnia.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Angalon",
+    "host": "angalon.net",
+    "port": "3011",
+    "ip": "81.171.111.52",
+    "www": "http://www.angalon.net/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "FateMud",
+    "host": "fatemud.com",
+    "port": "7004",
+    "ip": "",
+    "www": "http://www.fatemud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "Java Tele-Arena",
+    "host": "tdod.org",
+    "port": "3000",
+    "ip": "75.71.77.212",
+    "www": "http://tdod.org/ether/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "The Eternal Battles",
+    "host": "mud.morchronium.com",
+    "port": "8000",
+    "ip": "76.18.137.145",
+    "www": "http://teb.morchronium.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "R"
+  },
+  {
+    "title": "Winterkill",
+    "host": "wk.fi",
+    "port": "23",
+    "ip": "46.19.34.62",
+    "www": "http://wk.fi",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "City of Hope MUSH",
+    "host": "cityofhope.genesismuds.com",
+    "port": "8888",
+    "ip": "",
+    "www": "none",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Act of War: the Last Stand",
+    "host": "www.actofwar.com",
+    "port": "4000",
+    "ip": "66.85.147.90",
+    "www": "http://www.actofwar.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "End-Of-Line",
+    "host": "linkwarriors.ackmud.net",
+    "port": "4000",
+    "ip": "71.19.157.196",
+    "www": "http://linkwarriors.ackmud.net/end_of_line/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "SerenityMUSH",
+    "host": "serenitymush.com",
+    "port": "6060",
+    "ip": "67.205.140.34",
+    "www": "http://www.serenitymush.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Continents Mud",
+    "host": "continentsmud.com",
+    "port": "5050",
+    "ip": "24.116.119.222",
+    "www": "http://www.continentsmud.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "E"
+  },
+  {
+    "title": "PernWorld",
+    "host": "paper.mudmagic.com",
+    "port": "2211",
+    "ip": "173.193.107.10",
+    "www": "http://pernworld.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dreamverse",
+    "host": "mud.dreamverse.org",
+    "port": "9600",
+    "ip": "50.240.60.57",
+    "www": "http://www.dreamverse.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "NeoTokyo Muck",
+    "host": "",
+    "port": "10222",
+    "ip": "104.178.27.93",
+    "www": "",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dreamwalk MUSH",
+    "host": "dreamwa.lk",
+    "port": "1736",
+    "ip": "192.241.149.25",
+    "www": "http://dreamwa.lk/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Classic 6Dragons",
+    "host": "6dragons.tk",
+    "port": "4100",
+    "ip": "198.50.175.150",
+    "www": "http://6dragons.tk",
+    "msp": true,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Stillborn",
+    "host": "sabbath.online",
+    "port": "666",
+    "ip": "sabbath.online",
+    "www": "http://sabbath.online",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Strife in the Age of Steam",
+    "host": "strife.pennmush.org",
+    "port": "4201",
+    "ip": "192.3.10.110",
+    "www": "http://steamage.wikidot.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Yggdrasil:  Horse of the Hanged",
+    "host": "north.mudhosting.net",
+    "port": "9500",
+    "ip": "192.95.60.225",
+    "www": "http://north.mudhosting.net/main.html",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Dragonball: North Star",
+    "host": "capsulecorp.org",
+    "port": "4000",
+    "ip": "104.207.135.162",
+    "www": "http://capsulecorp.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Dragon Age MUSH",
+    "host": "arbitraryorder.com",
+    "port": "8195",
+    "ip": "",
+    "www": "http://arbitraryorder.com/dawiki/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Star Wars: Generations of Darkness",
+    "host": "galaxy.silvren.com",
+    "port": "8311",
+    "ip": "71.171.93.80",
+    "www": "None",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "CoMuX: NuGenesis",
+    "host": "nugenesismux.com",
+    "port": "6006",
+    "ip": "66.85.147.85",
+    "www": "http://cmbeta.wikidot.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "The Lost Isles",
+    "host": "tli.localecho.net",
+    "port": "5555",
+    "ip": "5.9.19.231",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "ShadowGate Re-Imagined",
+    "host": "www.sgmud.com",
+    "port": "4016",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "STAR WARS: Age of Alliances Ep7-8 MUSH",
+    "host": "swaoa-mush.com",
+    "port": "5500",
+    "ip": "swaoa-mush.com",
+    "www": "http://www.swaoa-mush.com/ ",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "eRogue tbaMUD",
+    "host": "games.ddns.net",
+    "port": "4000",
+    "ip": "dynamic",
+    "www": "http://",
+    "msp": false,
+    "mxp": true,
+    "codebase": "T"
+  },
+  {
+    "title": "Transformers: Lost and Found",
+    "host": "riverdark.net",
+    "port": "1984",
+    "ip": "",
+    "www": "http://lostandfound.riverdark.net/wiki/Main_Page",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "The Beast Within: Returns!",
+    "host": "tmud.guam.net",
+    "port": "5353",
+    "ip": "202.128.30.16",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "G"
+  },
+  {
+    "title": "KoBraMUD",
+    "host": "kobramud.org",
+    "port": "23",
+    "ip": "",
+    "www": "http://kobramud.org/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "L"
+  },
+  {
+    "title": "Pendulum's Calm",
+    "host": "pendulumscalm.com",
+    "port": "4000",
+    "ip": "",
+    "www": "http://pendulumscalm.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Rise of Praxis",
+    "host": "riseofpraxis.net",
+    "port": "6666",
+    "ip": "",
+    "www": "http://forums.riseofpraxis.net/",
+    "msp": false,
+    "mxp": true,
+    "codebase": "L"
+  },
+  {
+    "title": "Moments of Hatred",
+    "host": "godwars.net",
+    "port": "3500",
+    "ip": "178.79.173.99",
+    "www": "http://www.godwars.net",
+    "msp": false,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "Penultimate Destination",
+    "host": "penultimatemush.com",
+    "port": "9500",
+    "ip": "173.230.131.156",
+    "www": "http://",
+    "msp": false,
+    "mxp": true,
+    "codebase": "M"
+  },
+  {
+    "title": "Age of Legends: Tales of the Lance",
+    "host": "ageoflegends.com",
+    "port": "6010",
+    "ip": "144.217.205.176",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Dark Realms: City of Syne",
+    "host": "173.244.70.250",
+    "port": "1138",
+    "ip": " ",
+    "www": "http://zgambit.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "Imperium Devel Game",
+    "host": "EmpireDirectory.net",
+    "port": "3458",
+    "ip": "74.207.247.247",
+    "www": "http://EmpireDirectory.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "MahouMUSH",
+    "host": "mahoumush.com",
+    "port": "7342",
+    "ip": "mahoumush.com",
+    "www": "http://mahoumush.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "DREAMPIECE",
+    "host": "mud.dreampiece.com",
+    "port": "4000",
+    "ip": "",
+    "www": "http://www.dreampiece.com/wp/mud/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "The 5th Wave",
+    "host": "roxie-silver.org",
+    "port": "5555",
+    "ip": "",
+    "www": "http://5thwave.wikidot.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Before the Dawn",
+    "host": "infiniteodysseys.com",
+    "port": "7505",
+    "ip": "66.85.147.85",
+    "www": "http://beforethedawn.wikia.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dungeonia",
+    "host": "dungeon.rm-o.com",
+    "port": "5555",
+    "ip": "104.236.212.17",
+    "www": "http://dungeon.rm-o.com",
+    "msp": false,
+    "mxp": true,
+    "codebase": "C"
+  },
+  {
+    "title": "Cloudsdale 3",
+    "host": "wishywish.duckdns.org",
+    "port": "8888",
+    "ip": "",
+    "www": "http://cloudsdale3.blogspot.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Darklord 2.0 - The Blood of Time",
+    "host": "darklord.evils.in",
+    "port": "9100",
+    "ip": "184.57.84.67",
+    "www": "http://https://bitbucket.org/darklord15/darklord/wiki/Home",
+    "msp": true,
+    "mxp": true,
+    "codebase": "G"
+  },
+  {
+    "title": "X-Factor",
+    "host": "xfnyc.riverdark.net",
+    "port": "2045",
+    "ip": "",
+    "www": "http://xfnyc.riverdark.net/wiki/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Summertime",
+    "host": "summer.evils.in",
+    "port": "2222",
+    "ip": "",
+    "www": "None",
+    "msp": true,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Inheritance Gambit",
+    "host": "inheritancegambit.com",
+    "port": "2099",
+    "ip": "50.28.62.243",
+    "www": "https://inheritancegambit.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "NoMUD",
+    "host": "nomud.net",
+    "port": "4096",
+    "ip": "52.8.131.104",
+    "www": "http://www.nomud.net",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "DragonBall: Tournament",
+    "host": "dbt.mudhaven.net",
+    "port": "2500",
+    "ip": "68.44.138.187",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "City of Ages 2",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "See Steam Client",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Arx, After the Reckoning",
+    "host": "play.arxmush.org",
+    "port": "3000",
+    "ip": "45.33.87.194",
+    "www": "http://play.arxmush.org",
+    "msp": false,
+    "mxp": true,
+    "codebase": "U"
+  },
+  {
+    "title": "Star Trek: Phoenix Rising",
+    "host": "game.phxrising.org",
+    "port": "1701",
+    "ip": "",
+    "www": "http://phxrising.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "HexOnyx",
+    "host": "mud.hexonyx.com",
+    "port": "7777",
+    "ip": "mud.hexonyx.com",
+    "www": "http://mud.hexonyx.com (Needs updating)",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "After the Breaking MUD",
+    "host": "atbmud.dune.net",
+    "port": "4000",
+    "ip": "atbmud.dune.net",
+    "www": "http://atbmud.freeforums.net/",
+    "msp": true,
+    "mxp": true,
+    "codebase": "T"
+  },
+  {
+    "title": "Dragonballz Universe",
+    "host": "mud.morchronium.com",
+    "port": "7775",
+    "ip": "",
+    "www": "http://morchronium.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Mutant Genesis MUX",
+    "host": "mutantgenesismux.com",
+    "port": "2017",
+    "ip": "mutantgenesismu",
+    "www": "http://mutantgenesismux.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "Dragonball Arena",
+    "host": "mud.morchronium.com",
+    "port": "7770",
+    "ip": "",
+    "www": "http://mud.morchronium.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "Heroes of Kore",
+    "host": "kore.pw",
+    "port": "6000",
+    "ip": "",
+    "www": "http://kore.pw",
+    "msp": false,
+    "mxp": false,
+    "codebase": "D"
+  },
+  {
+    "title": "BattlecryMUD",
+    "host": "107.173.28.163",
+    "port": "4000",
+    "ip": "107.173.28.163",
+    "www": "http://battlecrymud.neocities.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "S"
+  },
+  {
+    "title": "Marsilikos MUSH",
+    "host": "marsilikos.silvertree.org",
+    "port": "1310",
+    "ip": "173.11.101.153",
+    "www": "http://marsilikos.wikidot.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "ifMUD",
+    "host": "ifmud.port4000.com",
+    "port": "4000",
+    "ip": "",
+    "www": "http://ifmud.port4000.com",
+    "msp": true,
+    "mxp": true,
+    "codebase": "A"
+  },
+  {
+    "title": "Seltami",
+    "host": "",
+    "port": "",
+    "ip": "",
+    "www": "http://seltani.net",
+    "msp": true,
+    "mxp": true,
+    "codebase": "A"
+  },
+  {
+    "title": "Bad Moon Rising MUSH",
+    "host": "badmoonrising.aresmush.com",
+    "port": "2511",
+    "ip": "104.131.114.131",
+    "www": "http://badmoonrising.aresmush.com/",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Highlands III",
+    "host": "Mud.highlands3.org",
+    "port": "9001",
+    "ip": "",
+    "www": "http://",
+    "msp": false,
+    "mxp": false,
+    "codebase": "C"
+  },
+  {
+    "title": "DreamLand",
+    "host": "dreamland.rocks",
+    "port": "9000",
+    "ip": "78.46.175.102",
+    "www": "http://dreamland.rocks",
+    "msp": false,
+    "mxp": false,
+    "codebase": "R"
+  },
+  {
+    "title": "MajorMUD",
+    "host": "tdod.org",
+    "port": "23",
+    "ip": "75.71.77.212",
+    "www": "http://tdod.org",
+    "msp": false,
+    "mxp": false,
+    "codebase": "U"
+  },
+  {
+    "title": "Valorous Dominion",
+    "host": "silvren.com",
+    "port": "1510",
+    "ip": "71.171.93.80",
+    "www": "http://valorous.wikidot.com",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "NeonMOO",
+    "host": "neon-moo.space",
+    "port": "7777",
+    "ip": "172.104.128.66",
+    "www": "http://neon-moo.space",
+    "msp": false,
+    "mxp": false,
+    "codebase": "M"
+  },
+  {
+    "title": "midmud",
+    "host": "midmud.com",
+    "port": "5555",
+    "msp": false,
+    "mxp": false
+  },
+  {
+    "title": "boa.sindome.org",
+    "host": "boa.sindome.org",
+    "port": "5555",
+    "msp": false,
+    "mxp": false
+  }
+]
