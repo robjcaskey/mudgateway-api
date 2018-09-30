@@ -37,6 +37,7 @@ functions:
     events:
       - http: ANY /
       - http: 'ANY {proxy+}'
+    cors: true
 
 plugins:
   - serverless-domain-manager
