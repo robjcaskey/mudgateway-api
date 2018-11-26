@@ -3,8 +3,8 @@
 echo "sudo halt" | at now + 1450 minutes
 touch /helloWorld
 
-export MUDGATEWAY_ACCESS_KEY_ID="dummy"
-export MUDGATEWAY_SECRET_ACCESS_KEY="dummy"
+export MUDGATEWAY_ACCESS_KEY_ID={{uuid}}
+export MUDGATEWAY_SECRET_ACCESS_KEY={{secret}}
 
 apt-get update
 apt-get remove --purge man-db -y

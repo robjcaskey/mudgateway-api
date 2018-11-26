@@ -29,6 +29,38 @@ function define(tableName, fields, options) {
       });
     });
   }
+  Model.findById = function(hkeyVal) {
+    var hKey = Model.primaryPartitionKey;
+    var queryOptions = {
+      KeyConditionExpression: "#hkey = :hkey",
+      ExpressionAttributeValues: {
+        ':hkey': hkeyVal
+      },
+      ExpressionAttributeNames: {
+        '#hkey': hKey
+      }
+    }
+    return Model.query(queryOptions)
+    .then(results => {
+      return Promise.resolve(results.pop());
+    });
+  }
+  Model.query = function(queryOptions) {
+    var params = {
+      TableName:prefixed(tableName)
+    , ... queryOptions};
+    return new Promise((resolve, reject) => {
+      return docClient.query(params, function(err, data) {
+        if (err) {
+          reject(err);
+        } else {
+          resolve(Promise.map(data.Items, item => {
+            return Model.build(item);
+          }));
+        }
+      });
+    });
+  }
   Model.build = function(data) {
     var instance = new Model();
     instance.model = Model;
@@ -41,6 +73,12 @@ function define(tableName, fields, options) {
     else {
       return Promise.resolve(instance);
     }
+  }
+  Model.create = function(data) {
+    return this.build(data)
+    .then(instance => {
+      return instance.save();
+    });
   }
   Model.prototype.save = function() {
     var params = {
@@ -61,7 +99,7 @@ function define(tableName, fields, options) {
   Model.prototype.delete = function() {
     var params = {
       TableName:prefixed(tableName),
-      key:this.getKey()
+      Key:this.getKey()
     }
     return new Promise((resolve, reject) => {
       return docClient.delete(params, function(err, data) {

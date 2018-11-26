@@ -4,21 +4,20 @@ var AWS = require('aws-sdk');
 var models = require('./models');
 
 module.exports.reap = async (event, context) => {
-  return models.Gateway.scan("gateways")
+  var currentTimestamp = Date.now();
+  return models.Gateway.scan()
+  .filter(x => currentTimestamp - x.created > (24*60*60*1000))
   .map(item => {
-    return item.update({dogSays:'bow'})
+    return item.delete();
   })
   .then((result)=> {
     return {
       statusCode: 200,
       body: JSON.stringify({
-        message: 'Go Serverless v1.0! Your function executed successfully!',
+        message: 'removed old instances',
         result:'OK',
         input: event,
       }),
     };
   });
-
-  // Use this code if you don't use the http event with the LAMBDA-PROXY integration
-  // return { message: 'Go Serverless v1.0! Your function executed successfully!', event };
 };

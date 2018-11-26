@@ -1,52 +1,31 @@
 // index.js
 
+const fs = require('fs');
 const serverless = require('serverless-http');
 const bodyParser = require('body-parser');
 const express = require('express')
 const app = express()
-var AWS = require('aws-sdk');
+const AWS = require('aws-sdk');
+const ec2 = new AWS.EC2();
+const uuidv4 = require('uuid/v4');
+
+
+var models = require('./models');
 var TABLE_PREFIX = process.env.TABLE_PREFIX;
+var SECURITY_GROUP_NAME="mudconnect-proxy";
+var initScriptTemplate = fs.readFileSync("init_script.sh");
+
 
 // hmmm
 app.use(bodyParser.json({ strict: false }));
 app.use(function(req, res, next) {
-  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
 });
 
 //var ddb = new AWS.DynamoDB({apiVersion: '2012-10-08'});
 var docClient = new AWS.DynamoDB.DocumentClient();
-
-function put(tableName, item) {
-  var params = {
-    TableName:TABLE_PREFIX+tableName,
-    Item:item
-  }
-  return new Promise((resolve, reject) => {
-    docClient.put(params, function(err, data) {
-      if (err) {
-        reject(err);
-      } else {
-        
-        resolve(data);
-      }
-    });
-  })
-}
-function scan(tableName, item) {
-  var params = {
-    TableName:TABLE_PREFIX+tableName,
-  }
-  return new Promise((resolve, reject) => {
-    return docClient.scan(params, function(err, data) {
-      if (err) {
-        reject(err);
-      } else {
-        resolve(data);
-      }
-    });
-  });
-}
 
 function getMudList() {
   var fs = require('fs');
@@ -110,7 +89,7 @@ app.post('/attemptBan', (req, res) => {
   })
   .then(()=> {
     var timestamp = new Date().getTime();
-    return put('bans', {
+    models.Ban.create({
       'banned' : timestamp,
       'host' : req.body.host,
       'port' : req.body.port,
@@ -148,7 +127,7 @@ app.post('/checkAllowed', (req, res) => {
   })
   .then(mud => {
     // log access
-    return put('connections', {
+    return models.Connection.create({
       'connected' : timestamp,
       'host' : req.body.host,
       'port' : req.body.port,
@@ -162,11 +141,133 @@ app.post('/checkAllowed', (req, res) => {
     reportDynamoError(res, e);
   });
 });
-app.all('/getPortalUrl', function(req, res) {
-  res.json({
-    portalUrl:"ws://54.197.28.49:8080/"
+module.exports.testQuery = function(req, res) {
+  var instanceUuid = "9f8bae4b-22e7-4f21-bae1-d92f50d990cd";
+  return spawnPortal()
+  .then(()=> {
+    console.log("DONE")
+  });
+}
+app.all('/registerGateway', (req, res) => {
+  var timestamp = new Date().getTime();
+  function checkAllowed() {
+    return Promise.resolve(true);
+  }
+
+  var instanceUuid = req.body.MUDGATEWAY_ACCESS_KEY_ID;
+  var secretKey = req.body.MUDGATEWAY_SECRET_ACCESS_KEY;
+
+  return checkAllowed()
+  .then(mud => {
+    return models.Gateway.findById(instanceUuid)
+    .then(instance => {
+      return instance.update({
+        'registered' : timestamp,
+        'address': req.connection.remoteAddress
+      })
+    })
+  })
+  .then(() => {
+    return res.send("OK");
+  })
+  .catch(e => {
+    reportDynamoError(res, e);
   });
 });
+function getCurrentPortal() {
+  return models.Gateway.scan()
+  .then(items => {
+    if(typeof(items) == 'undefined') {
+      return;
+    }
+    items.sort((a,b) => a.created - b.created);
+    return items[0];
+  })
+}
+
+function spawnPortal() {
+  var uuid = uuidv4();
+  // Amazon Linux 2 AMI (HVM), SSD Volume Type
+  //var AMI =  "ami-04681a1dbd79675a5"
+  // Ubuntu 18.04 LTS
+  var AMI = "ami-0ac019f4fcb7cb7e6";
+  var INSTANCE_TYPE = "t2.nano";
+  
+  function runInstance(params) {
+    return new Promise((resolve, reject) => {
+      ec2.runInstances(params, (err, result) => {
+        if(err) {
+          reject(err);
+        }
+        else {
+          resolve(result);
+        }
+      });
+    });
+  }
+  var currentTimestamp = Date.now();
+  return models.Gateway.create({uuid:uuid,created:currentTimestamp})
+  .then(() => {
+    var initScript = initScriptTemplate.toString().replace('{{uuid}}',uuid).replace('{{secret}}','dummy');
+    var encoded_init_script = new Buffer(initScript).toString('base64');
+    return runInstance({
+      // no ssh access for production
+      KeyName:'caskeyOrgMasterKeypair',
+      ImageId:AMI,
+      InstanceType:INSTANCE_TYPE,
+      SecurityGroups: [SECURITY_GROUP_NAME],
+      MinCount:1,
+      MaxCount:1,
+      InstanceInitiatedShutdownBehavior:'terminate',
+      UserData:encoded_init_script
+    });
+  })
+  .then(()=> {
+    return uuid;
+  });
+}
+
+app.all('/getPortalUrl', (req, res) => {
+  return getCurrentPortal()
+  .then(result => {
+    if(!result) {
+      return spawnPortal()
+      .then(endpointUuid=> {
+        return {status:"starting",endpointUuid:endpointUuid}
+      }); 
+    }
+    else if(result.address) {
+      var portalUrl = "ws://"+result.address+":"+8080+"/";
+      return {
+        status:"running",
+        endpointUuid:result.uuid,
+        portalUrl:portalUrl
+      }
+    }
+    else {
+      return {status:"starting", endpointUuid:result.uuid}
+    }
+  })
+  .then(result => res.json(result));
+});
+app.all('/checkPortalUrlCurrent', function(req, res) {
+  return getCurrentPortal()
+/*
+  .then(recentGateway => {
+    var port = 8080;
+    var portalUrl = "ws://"+recentGateway.address+":"+8080+"/";
+    return {
+      portalUrl:portalUrl
+    }
+  })
+*/
+  .then(result => res.json(result))
+  .catch(e => {
+    return reportDynamoDbError(res, e);
+  })
+});
+
+
 app.get('/inquire', function (req, res) {
   function telnetConnection(host, port) {
     return new Promise((resolve, reject) => {

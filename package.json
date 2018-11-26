@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.5.2",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "serverless-http": "^1.6.0"
+    "serverless-http": "^1.6.0",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "serverless-domain-manager": "^2.6.5"
