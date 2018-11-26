@@ -7086,5 +7086,12 @@
     "port": "5555",
     "msp": false,
     "mxp": false
+  },
+  {
+    "title": "myMud",
+    "host": "54.197.28.49",
+    "port": "4000",
+    "msp": false,
+    "mxp": false
   }
 ]
